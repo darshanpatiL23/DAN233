@@ -1,0 +1,2001 @@
+Age,Income,Eco_Awareness,Event_Frequency,Online_Shopper,Preferred_Product,Monthly_Spend,Purchase_Intent
+56,Medium,1,0,1,Bowls,237.85,0
+46,Low,4,6,0,Trays,787.37,1
+32,Medium,5,7,0,Spoons,787.92,1
+25,Medium,5,6,0,Combo Pack,914.86,1
+38,Low,4,3,0,Spoons,649.91,0
+56,Medium,5,7,0,Bowls,957.0,1
+36,Low,2,4,1,Trays,502.69,0
+40,High,4,9,1,Plates,883.69,1
+28,Medium,2,8,0,Trays,727.87,0
+28,High,2,9,1,Bowls,781.61,1
+41,Medium,3,4,0,Plates,634.12,0
+53,Low,4,0,0,Spoons,547.33,0
+57,Medium,5,8,1,Combo Pack,1030.2,1
+41,High,2,4,1,Combo Pack,479.5,0
+20,Medium,3,5,1,Trays,646.46,1
+39,High,4,3,1,Spoons,654.56,1
+19,High,4,5,1,Bowls,755.38,1
+41,Low,1,7,1,Combo Pack,599.91,1
+47,Low,1,2,0,Spoons,332.18,0
+55,Medium,2,4,1,Trays,603.87,0
+19,Medium,1,1,1,Plates,360.32,0
+38,High,2,1,1,Trays,353.98,0
+50,High,5,6,0,Trays,708.17,1
+29,Low,2,9,1,Spoons,811.84,1
+39,Low,1,9,1,Combo Pack,622.98,1
+42,Medium,5,9,0,Spoons,1009.93,1
+44,Low,1,5,1,Plates,430.08,1
+59,High,2,3,0,Spoons,427.67,0
+45,Medium,3,4,0,Bowls,630.61,0
+33,Medium,4,0,1,Trays,422.03,1
+32,Low,1,6,0,Combo Pack,446.11,0
+20,Medium,2,7,0,Plates,667.16,0
+54,Medium,5,8,1,Trays,1031.15,1
+24,Medium,1,7,1,Spoons,582.08,1
+38,Low,1,4,0,Bowls,360.65,0
+26,Medium,4,2,1,Spoons,551.09,1
+56,High,2,9,1,Trays,724.67,1
+35,Low,3,8,1,Plates,811.99,1
+21,Low,5,5,1,Combo Pack,924.27,1
+42,Low,2,4,1,Trays,397.63,0
+31,Medium,5,2,0,Plates,688.96,0
+26,Medium,1,5,0,Trays,383.37,0
+43,Medium,4,2,1,Bowls,517.39,1
+19,Low,4,9,1,Spoons,998.35,1
+37,Low,3,5,0,Combo Pack,677.23,0
+45,Medium,4,3,1,Plates,672.47,1
+24,Medium,1,1,1,Combo Pack,296.05,0
+25,High,3,7,0,Combo Pack,726.01,0
+52,Low,2,3,0,Combo Pack,428.37,0
+31,Medium,4,8,0,Plates,1009.29,1
+34,Medium,3,6,1,Plates,687.67,1
+53,Medium,1,1,0,Combo Pack,286.76,0
+57,Medium,5,3,0,Spoons,750.32,0
+21,Medium,5,4,1,Trays,707.59,1
+19,High,1,2,1,Combo Pack,197.77,0
+23,Low,1,8,0,Bowls,571.05,0
+59,Low,5,4,0,Combo Pack,852.81,0
+21,Medium,3,1,1,Plates,489.41,0
+46,Medium,5,2,1,Trays,745.7,1
+35,Low,1,8,1,Bowls,550.65,1
+43,Low,4,6,1,Trays,880.79,1
+51,Low,2,1,0,Trays,301.76,0
+27,High,4,8,0,Bowls,910.64,1
+53,Low,4,3,0,Combo Pack,649.48,0
+31,Low,1,8,0,Combo Pack,591.31,0
+48,Low,5,1,1,Combo Pack,716.93,1
+32,Low,3,9,0,Spoons,814.74,0
+25,Low,4,3,0,Combo Pack,582.52,0
+31,Medium,5,4,1,Bowls,801.0,1
+40,Low,3,1,0,Spoons,430.01,0
+57,High,4,9,0,Combo Pack,1118.87,1
+38,Low,3,0,0,Spoons,433.83,0
+33,Medium,5,6,1,Bowls,879.53,1
+35,High,2,9,1,Combo Pack,697.19,1
+41,Medium,5,0,0,Plates,505.99,0
+43,Medium,1,7,1,Bowls,498.74,1
+42,Low,3,2,1,Trays,505.75,0
+58,Low,2,9,1,Trays,821.37,1
+46,Medium,3,5,1,Bowls,706.08,1
+32,High,3,6,1,Trays,711.45,1
+18,Medium,4,9,1,Bowls,933.84,1
+42,Medium,1,0,0,Plates,213.44,0
+24,Medium,3,5,0,Bowls,624.07,0
+26,Medium,5,6,0,Combo Pack,985.92,1
+41,Low,5,5,1,Combo Pack,840.54,1
+18,Medium,4,3,1,Spoons,645.68,1
+25,High,1,0,1,Trays,89.21,0
+41,Low,1,8,0,Trays,590.23,0
+28,Medium,5,3,1,Bowls,791.82,1
+34,Low,2,6,1,Trays,546.61,1
+25,Medium,4,6,1,Combo Pack,762.46,1
+52,Low,4,1,1,Plates,589.64,1
+52,Medium,5,0,1,Bowls,526.17,1
+50,Medium,5,7,1,Trays,1002.89,1
+22,Low,2,7,1,Combo Pack,623.39,1
+59,Medium,2,6,1,Spoons,580.57,1
+56,Medium,1,7,0,Trays,493.81,0
+58,High,4,2,0,Plates,618.9,0
+45,Low,4,1,1,Plates,672.99,1
+24,Low,5,6,0,Trays,939.07,1
+26,Low,1,7,1,Trays,506.79,1
+25,High,4,0,0,Combo Pack,556.78,0
+29,High,1,9,1,Trays,634.17,1
+51,Medium,1,8,0,Spoons,668.72,0
+50,High,5,3,0,Combo Pack,790.33,0
+40,Medium,1,3,1,Bowls,202.84,0
+41,Medium,2,2,0,Spoons,349.8,0
+54,Low,2,5,0,Combo Pack,597.22,0
+52,Medium,3,0,0,Combo Pack,407.58,0
+57,Low,5,5,1,Plates,798.81,1
+39,High,3,1,0,Combo Pack,418.32,0
+44,Medium,2,8,1,Spoons,604.69,1
+52,Medium,3,1,1,Trays,445.58,0
+18,Low,5,6,1,Spoons,1010.53,1
+52,Low,5,0,1,Bowls,640.25,1
+54,Low,1,6,1,Combo Pack,609.52,1
+31,Low,4,4,0,Combo Pack,744.12,0
+20,Low,1,7,1,Combo Pack,601.37,1
+18,High,5,3,0,Combo Pack,848.7,0
+22,Medium,2,9,1,Plates,768.86,1
+43,Low,2,6,0,Plates,590.64,0
+31,Low,1,5,1,Trays,501.63,1
+56,Medium,5,4,0,Combo Pack,872.69,0
+44,Medium,2,3,0,Bowls,426.0,0
+26,Medium,5,6,1,Trays,863.92,1
+32,High,2,4,1,Combo Pack,506.94,0
+32,Medium,5,4,0,Plates,841.57,0
+43,High,3,0,1,Bowls,439.9,0
+59,High,5,1,1,Trays,578.79,1
+30,Low,5,4,1,Bowls,895.58,1
+49,High,1,2,1,Combo Pack,267.94,0
+56,Low,3,1,0,Spoons,436.75,0
+49,High,4,3,0,Bowls,604.87,0
+21,Low,1,3,1,Bowls,484.92,0
+47,High,4,3,1,Plates,662.1,1
+54,High,2,3,0,Combo Pack,407.45,0
+40,High,4,2,0,Bowls,643.2,0
+56,Medium,5,6,1,Combo Pack,938.46,1
+32,Low,4,8,0,Plates,890.61,1
+46,Low,1,4,0,Combo Pack,442.03,0
+53,Medium,1,3,0,Plates,308.74,0
+30,Low,4,1,0,Plates,525.35,0
+49,Medium,1,1,0,Trays,149.49,0
+24,Low,1,4,1,Combo Pack,333.8,0
+39,High,4,6,0,Spoons,890.38,1
+45,Medium,3,9,0,Trays,932.07,0
+19,High,3,9,0,Plates,853.29,0
+59,Low,2,8,0,Spoons,783.15,0
+23,High,1,6,0,Bowls,492.0,0
+45,High,4,4,0,Bowls,687.83,0
+45,Medium,1,9,1,Trays,652.83,1
+37,Medium,5,9,0,Spoons,1043.75,1
+47,Medium,1,9,0,Combo Pack,639.24,0
+28,Low,1,5,0,Spoons,507.17,0
+45,Medium,3,2,1,Trays,507.51,0
+42,Low,4,4,1,Combo Pack,735.62,1
+56,Low,1,7,0,Combo Pack,601.57,0
+50,Low,3,0,1,Bowls,419.41,0
+18,Low,2,0,0,Spoons,251.49,0
+44,Low,3,6,1,Combo Pack,632.36,1
+30,Low,3,4,0,Trays,607.44,0
+58,High,3,4,1,Bowls,591.44,0
+20,Medium,1,0,1,Combo Pack,204.37,0
+56,High,1,8,0,Spoons,599.2,0
+23,Medium,2,0,1,Bowls,429.18,0
+25,Low,5,4,1,Spoons,733.49,1
+44,Medium,5,9,0,Spoons,950.5,1
+26,Medium,5,8,0,Spoons,1016.62,1
+54,Low,2,3,0,Bowls,431.18,0
+50,Medium,5,7,1,Combo Pack,965.8,1
+59,Low,5,5,1,Plates,879.19,1
+41,Medium,3,2,0,Combo Pack,564.21,0
+32,Medium,1,3,1,Bowls,274.64,0
+49,Low,1,1,1,Plates,222.16,0
+49,Low,3,0,1,Plates,421.44,0
+41,Medium,3,7,1,Plates,788.52,1
+58,Medium,3,0,1,Trays,509.67,0
+29,Low,1,0,0,Bowls,247.79,0
+56,High,5,3,0,Trays,747.16,0
+19,Low,3,9,1,Plates,805.48,1
+20,Medium,2,9,0,Trays,721.79,0
+54,High,3,5,1,Trays,620.36,1
+34,Low,4,8,0,Bowls,932.76,1
+19,Low,3,0,0,Spoons,412.85,0
+19,Low,1,6,1,Trays,433.82,1
+45,Low,3,9,1,Trays,828.2,1
+40,Low,4,4,0,Plates,743.88,0
+54,Medium,2,7,1,Plates,667.58,1
+49,Low,5,6,1,Plates,928.43,1
+50,Medium,3,3,1,Combo Pack,569.15,0
+18,High,4,3,0,Trays,731.32,0
+36,High,4,5,1,Plates,761.8,1
+19,Medium,2,5,1,Bowls,530.7,1
+43,Low,1,8,0,Combo Pack,554.21,0
+49,Medium,3,4,1,Spoons,612.48,0
+23,Medium,4,7,1,Trays,727.96,1
+49,Medium,2,4,1,Trays,490.79,0
+21,Low,5,1,1,Bowls,639.71,1
+28,High,4,5,0,Spoons,681.78,1
+34,Medium,2,8,0,Spoons,653.59,0
+55,Low,1,2,1,Combo Pack,340.48,0
+41,Low,1,0,1,Trays,211.54,0
+22,Medium,4,0,1,Plates,505.09,1
+51,High,4,2,1,Bowls,615.32,1
+23,Medium,3,9,0,Bowls,854.63,0
+39,Medium,2,4,0,Bowls,562.14,0
+28,Low,4,2,0,Bowls,606.17,0
+33,Medium,3,8,0,Plates,727.09,0
+50,Medium,3,7,1,Plates,831.51,1
+26,Low,4,2,0,Combo Pack,618.52,0
+23,Low,1,8,1,Trays,570.54,1
+33,Medium,2,5,0,Plates,487.33,0
+46,Low,2,6,1,Combo Pack,619.8,1
+20,Medium,1,3,1,Spoons,344.14,0
+37,Low,4,3,0,Trays,728.71,0
+53,Low,2,1,0,Plates,332.7,0
+36,Low,4,4,0,Spoons,658.13,0
+43,High,4,7,1,Combo Pack,894.79,1
+20,High,3,6,0,Plates,746.26,0
+36,High,1,6,1,Plates,508.43,1
+37,Medium,4,5,1,Spoons,783.82,1
+49,Low,5,2,1,Plates,698.12,1
+24,Medium,1,4,0,Bowls,411.69,0
+58,Medium,2,0,1,Plates,358.25,0
+50,High,3,6,0,Trays,731.27,0
+57,Low,2,8,0,Spoons,691.54,0
+56,Medium,2,0,1,Trays,367.62,0
+35,Low,1,1,1,Combo Pack,131.76,0
+57,Low,2,2,0,Trays,502.6,0
+18,Medium,4,2,0,Bowls,514.7,0
+28,Medium,2,7,0,Bowls,618.65,0
+45,Low,3,6,1,Trays,697.95,1
+42,Low,3,5,0,Combo Pack,642.68,0
+40,Medium,5,9,1,Plates,1100.32,1
+48,Medium,3,9,1,Bowls,797.11,1
+47,High,2,3,1,Trays,463.04,0
+59,High,3,8,0,Trays,771.09,0
+52,Medium,1,0,1,Trays,214.76,0
+24,Low,3,1,1,Plates,446.76,0
+33,Medium,4,3,1,Spoons,654.65,1
+43,Medium,1,2,0,Combo Pack,272.5,0
+19,Low,5,0,0,Spoons,574.5,0
+18,High,4,4,0,Combo Pack,714.36,0
+29,Low,2,6,1,Combo Pack,647.19,1
+22,High,2,1,1,Trays,320.09,0
+54,Medium,2,4,1,Bowls,456.56,0
+49,Medium,4,5,0,Trays,780.67,1
+26,Medium,4,6,0,Plates,798.37,1
+58,High,4,0,0,Combo Pack,541.52,0
+52,Medium,1,6,0,Bowls,454.71,0
+36,Medium,1,3,0,Combo Pack,261.03,0
+33,Low,2,7,1,Combo Pack,623.35,1
+20,Medium,3,3,1,Trays,511.68,0
+37,Low,2,5,1,Bowls,546.06,1
+41,Medium,5,8,0,Bowls,968.16,1
+50,Medium,1,4,0,Combo Pack,437.05,0
+41,Medium,4,3,0,Bowls,635.59,0
+28,Low,1,7,1,Bowls,557.52,1
+25,Low,4,8,0,Trays,907.88,1
+53,Medium,5,3,1,Spoons,759.75,1
+55,Low,5,2,0,Plates,698.79,0
+57,Low,1,7,1,Spoons,575.53,1
+37,Low,4,4,1,Bowls,660.22,1
+52,High,5,1,0,Combo Pack,719.97,0
+42,Medium,2,9,1,Plates,738.17,1
+52,Low,2,8,0,Plates,634.42,0
+42,Low,4,2,1,Combo Pack,609.4,1
+46,Low,1,1,0,Plates,207.44,0
+35,Medium,5,0,0,Combo Pack,633.27,0
+35,Medium,1,7,1,Plates,660.48,1
+19,Low,2,2,1,Spoons,360.67,0
+52,Low,5,6,0,Plates,916.62,1
+33,Low,1,0,1,Trays,112.22,0
+58,Medium,3,0,0,Combo Pack,422.7,0
+53,Medium,4,8,0,Plates,855.71,1
+50,Low,4,7,1,Combo Pack,818.76,1
+21,Low,3,2,0,Trays,444.94,0
+50,Low,2,5,0,Plates,586.61,0
+31,High,5,2,1,Plates,750.37,1
+38,Low,4,3,0,Trays,651.17,0
+37,Medium,3,0,1,Trays,356.78,0
+25,Medium,3,4,0,Trays,679.48,0
+24,Low,2,0,0,Combo Pack,262.48,0
+20,Low,2,0,0,Trays,191.9,0
+34,Low,1,9,1,Combo Pack,672.92,1
+50,Medium,4,6,1,Spoons,744.76,1
+29,Medium,1,5,0,Plates,499.43,0
+39,Medium,3,1,0,Plates,430.94,0
+39,Medium,5,1,1,Bowls,680.19,1
+47,Low,5,6,0,Spoons,970.08,1
+55,High,2,0,1,Trays,239.56,0
+55,Medium,5,1,0,Trays,621.7,0
+25,Low,5,7,1,Spoons,946.22,1
+44,High,5,5,0,Trays,926.88,1
+44,Medium,3,1,1,Bowls,417.08,0
+51,Medium,5,6,1,Combo Pack,870.27,1
+38,Medium,5,3,0,Plates,773.91,0
+47,High,5,1,0,Spoons,621.14,0
+50,Medium,1,5,1,Plates,457.63,1
+45,Low,3,8,1,Combo Pack,722.42,1
+50,Low,2,8,0,Spoons,810.72,0
+22,High,1,7,0,Combo Pack,482.61,0
+36,Low,4,2,1,Trays,583.91,1
+21,Low,3,2,0,Trays,498.38,0
+52,Medium,3,1,1,Trays,545.63,0
+34,Medium,4,4,0,Combo Pack,633.76,0
+45,Medium,4,3,1,Combo Pack,749.19,1
+47,High,4,6,1,Combo Pack,837.86,1
+46,Low,2,3,1,Plates,470.85,0
+23,Low,5,8,0,Combo Pack,950.77,1
+52,Low,3,1,1,Trays,478.56,0
+58,High,5,5,0,Bowls,813.83,1
+54,Medium,5,6,1,Combo Pack,963.33,1
+41,Low,4,3,1,Bowls,601.45,1
+46,High,2,5,0,Trays,544.34,0
+48,High,1,6,1,Combo Pack,472.24,1
+52,High,2,3,0,Plates,400.62,0
+50,High,5,7,1,Plates,987.07,1
+38,Low,2,8,1,Bowls,726.77,1
+49,Medium,4,0,1,Plates,560.45,1
+40,Medium,1,6,0,Plates,411.01,0
+50,High,4,8,0,Plates,953.21,1
+20,Medium,1,9,1,Trays,775.27,1
+35,Medium,5,4,0,Plates,777.42,0
+42,Medium,1,1,0,Spoons,344.76,0
+59,Low,1,9,0,Combo Pack,636.84,0
+48,Medium,1,5,0,Plates,381.38,0
+20,High,2,6,1,Plates,584.72,1
+57,High,2,1,0,Plates,402.41,0
+41,Low,5,1,1,Spoons,608.09,1
+49,Low,1,9,0,Plates,619.98,0
+39,Low,3,9,0,Plates,879.68,0
+40,Medium,5,0,0,Combo Pack,600.15,0
+19,High,1,3,0,Spoons,379.23,0
+44,Low,1,6,0,Spoons,511.89,0
+59,Medium,2,8,1,Plates,723.98,1
+19,High,5,2,0,Spoons,678.38,0
+43,Medium,1,6,0,Bowls,511.59,0
+34,Medium,1,6,0,Spoons,453.63,0
+57,Medium,5,6,0,Spoons,964.42,1
+50,Medium,3,1,1,Spoons,418.29,0
+26,Low,5,5,1,Trays,906.44,1
+56,Medium,5,1,0,Trays,638.32,0
+46,Medium,3,5,0,Trays,660.1,0
+59,High,5,9,1,Spoons,1025.25,1
+43,Medium,1,2,0,Bowls,249.2,0
+52,Medium,5,1,1,Spoons,562.76,1
+42,Low,3,5,0,Plates,597.23,0
+41,Medium,4,1,1,Bowls,533.8,1
+30,Low,5,4,1,Trays,810.59,1
+24,Low,2,1,1,Combo Pack,400.52,0
+53,Medium,1,2,0,Bowls,277.71,0
+37,High,1,2,0,Trays,255.9,0
+18,Low,2,5,0,Bowls,477.86,0
+25,Medium,2,5,0,Bowls,574.0,0
+33,High,5,9,0,Spoons,1119.16,1
+31,Low,2,2,0,Plates,463.32,0
+29,Medium,4,2,1,Combo Pack,635.5,1
+40,Medium,3,0,1,Trays,431.93,0
+32,Medium,2,6,0,Bowls,684.88,0
+45,Low,2,7,0,Combo Pack,666.6,0
+51,Low,4,1,1,Bowls,582.31,1
+19,Medium,1,3,0,Plates,333.96,0
+49,Medium,1,9,1,Combo Pack,581.9,1
+40,Low,5,6,0,Trays,865.81,1
+39,Medium,4,7,0,Bowls,849.54,1
+42,Low,3,0,0,Plates,403.04,0
+39,Medium,3,3,0,Combo Pack,646.31,0
+39,Low,4,5,1,Bowls,754.06,1
+59,High,3,2,1,Bowls,558.94,0
+23,Low,1,4,0,Trays,378.25,0
+32,Low,3,9,1,Plates,834.42,1
+54,Low,3,8,0,Spoons,733.55,0
+50,Low,4,2,1,Bowls,562.88,1
+25,High,4,4,1,Combo Pack,726.35,1
+22,High,3,7,0,Trays,750.38,0
+56,Low,2,5,0,Trays,597.15,0
+21,Medium,4,3,0,Bowls,659.06,0
+23,Medium,5,7,1,Bowls,932.38,1
+49,High,5,2,1,Bowls,807.41,1
+47,Medium,1,2,1,Spoons,295.3,0
+52,Low,3,3,1,Bowls,608.15,0
+57,Medium,2,8,0,Plates,679.94,0
+33,Medium,1,4,0,Combo Pack,435.48,0
+30,Low,3,7,1,Bowls,796.4,1
+59,Medium,4,5,0,Spoons,760.42,1
+47,Low,5,2,1,Combo Pack,582.28,1
+36,Medium,2,7,0,Trays,650.91,0
+34,Low,5,8,0,Bowls,1061.52,1
+36,Medium,4,7,0,Combo Pack,876.37,1
+45,Medium,3,3,1,Trays,572.29,0
+43,Medium,4,5,0,Spoons,663.89,1
+54,Low,4,0,1,Plates,463.98,1
+43,Medium,5,3,0,Bowls,770.57,0
+40,Medium,2,7,1,Plates,670.52,1
+26,Medium,4,0,1,Spoons,560.73,1
+29,Medium,5,2,0,Combo Pack,692.76,0
+18,Medium,2,0,1,Combo Pack,320.29,0
+18,High,3,8,0,Spoons,800.82,0
+51,Low,3,1,0,Spoons,400.65,0
+49,High,1,8,0,Bowls,487.21,0
+42,Medium,5,3,1,Trays,771.55,1
+57,Low,2,1,1,Plates,358.7,0
+18,Low,4,3,1,Plates,619.09,1
+33,Low,3,9,1,Combo Pack,769.04,1
+56,Medium,2,5,1,Combo Pack,581.49,1
+22,Medium,5,6,0,Bowls,886.7,1
+39,Medium,1,2,1,Spoons,327.84,0
+46,Medium,3,2,0,Plates,593.2,0
+20,Medium,2,9,1,Bowls,642.93,1
+29,Low,2,7,1,Combo Pack,615.02,1
+43,Low,2,4,1,Combo Pack,489.53,0
+33,Medium,5,3,1,Plates,822.74,1
+54,Low,5,6,0,Combo Pack,818.18,1
+39,Low,5,6,1,Combo Pack,996.79,1
+46,Medium,4,8,0,Trays,906.79,1
+31,Medium,2,8,1,Spoons,695.2,1
+45,High,3,4,1,Combo Pack,590.1,0
+22,High,5,7,1,Trays,928.19,1
+47,Medium,5,9,1,Bowls,1102.41,1
+22,Medium,2,0,0,Combo Pack,246.57,0
+29,Medium,5,8,0,Bowls,1017.27,1
+33,Medium,4,7,1,Combo Pack,830.79,1
+43,Low,4,5,0,Plates,711.89,1
+43,Medium,5,2,0,Trays,829.3,0
+38,High,2,2,1,Trays,420.95,0
+56,Low,2,7,1,Plates,680.66,1
+53,Medium,2,4,1,Spoons,556.89,0
+50,Medium,1,9,0,Trays,578.93,0
+47,Low,5,6,1,Bowls,987.61,1
+54,Low,2,4,0,Trays,374.55,0
+40,Low,4,7,1,Spoons,811.56,1
+27,Low,3,9,0,Bowls,827.05,0
+22,Low,3,9,1,Bowls,879.09,1
+53,High,2,3,0,Plates,460.94,0
+51,Low,3,1,0,Combo Pack,441.66,0
+48,Medium,3,2,1,Plates,499.4,0
+27,Low,1,7,1,Combo Pack,501.1,1
+36,High,4,6,0,Plates,725.14,1
+49,Low,4,1,1,Combo Pack,586.33,1
+18,Medium,1,5,0,Trays,484.69,0
+22,High,1,8,1,Bowls,679.22,1
+21,High,3,3,1,Combo Pack,510.5,0
+33,Low,5,8,0,Trays,1034.64,1
+41,High,3,1,1,Spoons,435.81,0
+33,Medium,1,1,0,Plates,309.52,0
+19,Medium,4,8,0,Spoons,951.1,1
+45,Low,3,6,1,Trays,710.56,1
+49,Low,5,6,1,Spoons,883.02,1
+44,Medium,3,0,0,Spoons,448.05,0
+37,Medium,2,5,0,Trays,582.35,0
+41,Medium,3,6,0,Bowls,665.78,0
+29,Medium,1,5,1,Combo Pack,383.61,1
+52,Medium,4,5,0,Plates,735.57,1
+50,Low,4,1,0,Combo Pack,625.77,0
+50,Medium,1,5,0,Plates,507.32,0
+54,Low,2,3,0,Combo Pack,394.38,0
+29,Medium,1,8,0,Spoons,541.61,0
+20,Medium,3,0,0,Bowls,463.73,0
+18,High,1,7,0,Spoons,493.22,0
+50,Low,1,4,0,Bowls,425.46,0
+57,Low,2,0,1,Trays,269.2,0
+27,Low,3,3,0,Plates,630.85,0
+46,Low,5,0,1,Plates,561.48,1
+30,Low,5,5,1,Trays,907.17,1
+29,High,4,1,1,Combo Pack,559.24,1
+48,Low,1,4,1,Trays,412.61,0
+19,Low,4,6,0,Trays,701.48,1
+52,Medium,2,1,0,Bowls,239.85,0
+40,Medium,5,5,0,Trays,838.97,1
+34,Medium,1,5,0,Plates,462.35,0
+43,Low,2,4,1,Spoons,443.74,0
+25,Medium,2,4,1,Bowls,445.57,0
+46,Low,1,2,1,Bowls,328.07,0
+43,Low,2,9,0,Combo Pack,778.14,0
+27,High,1,9,1,Spoons,643.11,1
+43,Low,1,1,0,Bowls,289.01,0
+51,Medium,3,6,0,Trays,641.29,0
+58,Medium,4,0,0,Bowls,482.2,0
+24,Low,2,5,1,Bowls,632.39,1
+21,High,2,5,0,Bowls,553.42,0
+28,Low,3,2,1,Combo Pack,506.32,0
+46,Medium,3,1,1,Bowls,565.3,0
+53,High,3,1,1,Bowls,380.03,0
+42,Medium,5,8,0,Combo Pack,1039.82,1
+38,High,5,4,1,Spoons,883.2,1
+53,Low,5,6,1,Plates,883.76,1
+27,Medium,1,4,0,Combo Pack,442.98,0
+54,Low,2,6,0,Combo Pack,550.9,0
+26,Medium,4,3,0,Bowls,615.66,0
+41,High,1,7,0,Bowls,569.25,0
+52,Low,2,9,1,Plates,789.93,1
+52,Medium,2,9,1,Bowls,806.05,1
+53,Low,3,6,0,Trays,778.48,0
+35,Medium,3,9,1,Bowls,846.63,1
+56,Medium,1,4,1,Bowls,459.68,0
+49,High,3,5,0,Trays,632.88,0
+41,Medium,2,4,1,Plates,545.1,0
+40,Low,3,6,1,Trays,710.37,1
+49,Low,5,1,1,Combo Pack,672.28,1
+54,Low,3,4,0,Trays,621.18,0
+29,Low,2,9,1,Spoons,669.76,1
+30,Low,1,2,0,Combo Pack,243.79,0
+40,High,4,8,1,Bowls,905.13,1
+42,Medium,3,5,0,Combo Pack,565.64,0
+52,Medium,2,9,1,Plates,791.56,1
+58,Low,4,2,0,Plates,643.58,0
+47,High,4,6,0,Trays,816.36,1
+34,Medium,5,3,1,Combo Pack,693.94,1
+37,Low,4,2,0,Bowls,669.01,0
+42,Medium,2,7,1,Plates,751.86,1
+39,Medium,2,3,1,Bowls,457.35,0
+30,Low,3,0,1,Spoons,425.53,0
+36,Medium,3,5,0,Plates,660.09,0
+53,Medium,3,9,1,Trays,876.52,1
+29,Low,4,0,1,Spoons,494.02,1
+58,High,4,4,1,Combo Pack,698.27,1
+36,High,5,6,0,Bowls,945.29,1
+29,Medium,3,5,0,Plates,767.28,0
+26,Medium,1,1,1,Spoons,180.0,0
+24,Medium,5,3,0,Spoons,744.81,0
+45,Medium,1,1,0,Plates,190.98,0
+31,Medium,4,0,0,Combo Pack,579.6,0
+48,Low,5,2,1,Combo Pack,670.61,1
+36,Medium,5,2,1,Trays,627.84,1
+33,High,2,6,1,Combo Pack,631.91,1
+22,Medium,4,0,0,Trays,587.22,0
+52,Low,4,8,0,Spoons,933.18,1
+29,Medium,5,5,1,Plates,860.24,1
+42,Low,4,3,1,Combo Pack,670.46,1
+38,Low,5,2,1,Trays,770.74,1
+53,Low,2,2,1,Spoons,356.29,0
+40,Low,5,1,0,Combo Pack,644.41,0
+33,Medium,4,1,1,Bowls,527.37,1
+56,Medium,4,9,0,Spoons,891.61,1
+59,Low,5,4,0,Combo Pack,783.58,0
+56,High,5,8,1,Spoons,1055.39,1
+31,High,5,1,0,Plates,678.33,0
+48,High,3,1,0,Plates,482.22,0
+22,Low,4,5,0,Plates,757.32,1
+52,Medium,4,9,0,Bowls,976.17,1
+40,High,3,1,1,Plates,409.97,0
+46,Medium,5,3,0,Bowls,734.52,0
+28,Low,2,5,0,Plates,559.6,0
+35,Low,5,4,0,Spoons,813.88,0
+29,Medium,5,0,0,Combo Pack,616.01,0
+26,High,3,5,0,Combo Pack,643.08,0
+27,Medium,4,0,1,Plates,481.13,1
+34,Medium,5,2,0,Combo Pack,857.89,0
+55,Low,4,9,1,Plates,995.34,1
+24,Medium,1,4,1,Plates,420.66,0
+30,High,4,9,1,Trays,938.34,1
+57,Low,2,4,0,Trays,477.44,0
+59,Medium,2,9,0,Trays,743.46,0
+26,High,5,5,1,Bowls,864.64,1
+44,Low,4,9,1,Trays,855.98,1
+19,Medium,5,7,1,Plates,871.53,1
+22,Low,3,4,1,Spoons,568.16,0
+46,Medium,2,0,1,Trays,310.36,0
+54,Medium,5,4,1,Trays,788.04,1
+55,Medium,3,2,1,Spoons,573.91,0
+36,Medium,5,3,0,Plates,675.88,0
+25,Low,4,7,1,Bowls,812.43,1
+18,High,4,6,1,Trays,876.0,1
+39,Medium,4,4,0,Spoons,706.56,0
+34,Low,4,1,1,Plates,594.24,1
+24,Medium,1,5,1,Combo Pack,552.56,1
+42,Medium,3,5,1,Bowls,615.31,1
+21,Low,3,9,1,Spoons,845.03,1
+53,High,4,9,0,Spoons,936.38,1
+23,High,1,5,1,Spoons,352.27,1
+48,Low,4,8,1,Trays,884.48,1
+36,High,1,7,1,Combo Pack,594.05,1
+56,Low,4,7,0,Bowls,877.03,1
+44,Low,2,0,0,Plates,330.95,0
+27,Low,2,4,1,Plates,481.22,0
+43,High,5,6,0,Combo Pack,867.2,1
+36,Medium,4,5,0,Spoons,813.46,1
+56,Low,3,4,1,Spoons,575.13,0
+20,Medium,5,7,0,Spoons,964.7,1
+30,Medium,2,2,0,Spoons,408.17,0
+45,Low,4,5,0,Spoons,823.09,1
+37,High,5,4,0,Combo Pack,848.57,0
+45,High,4,7,1,Trays,785.24,1
+25,Medium,2,3,0,Bowls,390.62,0
+58,High,5,7,0,Spoons,978.95,1
+56,Medium,2,9,1,Trays,746.78,1
+18,High,1,1,1,Plates,227.24,0
+20,Medium,2,8,1,Combo Pack,750.78,1
+30,Medium,4,8,0,Trays,909.37,1
+45,Low,3,9,0,Spoons,852.62,0
+42,High,2,9,1,Spoons,788.99,1
+50,Medium,3,5,0,Spoons,631.24,0
+55,Low,1,3,1,Trays,428.43,0
+23,Low,5,3,0,Spoons,710.6,0
+49,Medium,5,5,0,Trays,882.85,1
+38,Medium,3,4,1,Spoons,671.69,0
+33,Medium,5,5,1,Plates,781.14,1
+38,High,2,6,1,Plates,582.83,1
+28,Low,3,6,0,Bowls,757.11,0
+54,Medium,4,8,0,Spoons,957.86,1
+53,Low,2,7,1,Spoons,641.43,1
+52,High,2,5,1,Trays,513.27,1
+36,High,2,5,0,Trays,597.8,0
+37,Medium,4,4,0,Spoons,759.18,0
+35,Medium,1,0,0,Bowls,141.77,0
+58,Low,5,8,1,Spoons,939.8,1
+31,Medium,3,8,1,Trays,811.26,1
+32,High,1,8,1,Spoons,631.47,1
+48,Medium,3,7,0,Trays,735.05,0
+18,Low,5,9,1,Spoons,1083.96,1
+20,Medium,4,2,0,Combo Pack,564.49,0
+33,High,2,0,1,Trays,194.27,0
+40,Low,2,7,1,Bowls,628.8,1
+28,Low,4,6,0,Combo Pack,803.16,1
+29,Medium,1,4,0,Spoons,386.21,0
+27,High,1,9,0,Trays,592.07,0
+49,Low,3,6,0,Combo Pack,609.22,0
+33,Low,4,9,1,Bowls,924.3,1
+25,Low,1,3,1,Trays,394.88,0
+55,Low,4,8,1,Combo Pack,962.81,1
+29,Medium,5,9,1,Combo Pack,1109.39,1
+41,Medium,2,1,1,Combo Pack,309.2,0
+45,Medium,2,8,0,Plates,642.31,0
+25,Medium,2,8,0,Spoons,724.83,0
+45,Low,4,4,1,Trays,731.76,1
+53,High,4,0,0,Trays,520.01,0
+43,Medium,3,6,1,Trays,599.3,1
+25,High,2,9,0,Combo Pack,706.66,0
+45,Medium,3,9,1,Spoons,848.52,1
+45,Low,2,3,1,Bowls,474.36,0
+54,Medium,3,8,0,Trays,838.37,0
+58,Low,3,5,0,Spoons,657.21,0
+53,Medium,5,2,1,Spoons,716.54,1
+44,Low,3,5,0,Plates,654.24,0
+34,Low,4,9,0,Trays,984.28,1
+26,High,3,5,1,Combo Pack,665.64,1
+50,Low,2,4,0,Spoons,503.29,0
+37,High,3,1,1,Spoons,436.58,0
+30,Low,1,9,1,Bowls,654.06,1
+45,Medium,2,9,0,Plates,774.23,0
+46,Medium,1,1,1,Spoons,263.37,0
+30,Medium,2,6,1,Spoons,619.04,1
+52,Low,4,1,0,Combo Pack,617.14,0
+23,Low,4,5,0,Combo Pack,763.26,1
+35,Low,4,4,0,Bowls,667.55,0
+22,Low,1,3,0,Bowls,394.18,0
+42,Medium,5,6,0,Bowls,831.69,1
+19,High,2,7,0,Combo Pack,595.93,0
+27,High,4,3,0,Combo Pack,666.79,0
+47,Medium,2,0,1,Plates,325.82,0
+22,Medium,1,0,1,Trays,137.75,0
+50,Medium,5,0,1,Trays,580.86,1
+18,Low,1,0,1,Plates,169.7,0
+35,High,2,4,1,Trays,475.67,0
+49,Medium,5,3,1,Combo Pack,797.18,1
+28,Medium,5,8,1,Trays,1035.33,1
+38,Low,1,2,0,Combo Pack,299.04,0
+43,Medium,4,6,1,Plates,772.7,1
+42,Medium,2,7,0,Bowls,582.52,0
+39,High,3,5,0,Plates,721.01,0
+44,Medium,3,9,1,Trays,879.61,1
+30,Low,1,0,0,Combo Pack,164.67,0
+50,High,2,7,0,Trays,685.98,0
+51,Low,2,9,1,Trays,746.49,1
+58,Medium,1,2,1,Bowls,285.64,0
+52,Low,2,7,1,Trays,671.76,1
+18,Medium,4,3,1,Bowls,612.93,1
+38,High,1,7,0,Combo Pack,532.81,0
+23,Low,4,0,0,Combo Pack,506.07,0
+45,High,2,2,1,Bowls,375.03,0
+34,Low,1,5,0,Plates,483.45,0
+22,High,2,8,1,Combo Pack,793.45,1
+48,Medium,1,1,0,Plates,212.29,0
+22,High,2,0,0,Combo Pack,216.74,0
+55,Low,4,9,1,Combo Pack,849.91,1
+20,High,4,2,1,Spoons,592.48,1
+40,Medium,2,3,1,Trays,416.84,0
+54,Low,1,4,0,Trays,410.39,0
+54,High,3,2,0,Plates,506.63,0
+27,Low,4,9,0,Trays,869.84,1
+27,High,4,1,0,Plates,459.26,0
+36,Low,3,1,0,Combo Pack,464.8,0
+34,Medium,2,6,0,Spoons,606.77,0
+38,Medium,1,8,1,Spoons,578.71,1
+31,Low,2,9,0,Combo Pack,667.14,0
+26,Low,5,1,1,Bowls,673.57,1
+18,Low,4,6,1,Bowls,863.59,1
+30,Medium,5,6,0,Trays,913.9,1
+21,Low,4,6,0,Plates,757.63,1
+18,Medium,4,2,0,Spoons,602.23,0
+57,Low,5,6,1,Trays,831.69,1
+49,Low,5,0,0,Combo Pack,652.9,0
+51,Medium,2,9,0,Spoons,754.09,0
+45,Low,5,0,1,Plates,511.59,1
+48,High,2,4,0,Plates,484.97,0
+25,High,2,1,1,Bowls,373.17,0
+56,Medium,2,8,1,Trays,683.35,1
+43,Medium,4,6,1,Combo Pack,786.21,1
+51,High,4,3,0,Spoons,588.78,0
+20,Low,5,3,1,Plates,778.33,1
+29,Low,4,1,1,Spoons,517.58,1
+18,Low,5,4,0,Combo Pack,692.18,0
+22,Medium,4,3,0,Spoons,631.44,0
+47,Low,1,0,0,Trays,249.06,0
+47,Medium,1,7,1,Bowls,530.65,1
+34,High,5,2,1,Spoons,786.9,1
+40,High,4,5,1,Bowls,771.45,1
+32,Medium,4,3,1,Combo Pack,666.94,1
+54,Low,2,8,0,Bowls,693.58,0
+38,High,3,6,0,Spoons,696.59,0
+31,Medium,5,8,1,Spoons,986.83,1
+19,Low,3,9,1,Plates,834.89,1
+28,Low,3,2,0,Spoons,526.54,0
+56,High,5,0,1,Bowls,553.21,1
+55,Medium,4,4,1,Plates,646.21,1
+51,High,5,2,1,Spoons,643.84,1
+55,High,3,5,1,Spoons,752.28,1
+51,Medium,4,7,1,Combo Pack,876.52,1
+35,Medium,1,3,0,Plates,365.22,0
+47,Medium,5,4,1,Combo Pack,747.12,1
+32,Low,5,4,0,Combo Pack,831.17,0
+44,Medium,4,3,1,Combo Pack,644.17,1
+51,Medium,1,3,0,Trays,360.71,0
+55,Medium,1,3,1,Combo Pack,301.17,0
+50,High,4,3,0,Bowls,658.01,0
+41,Medium,2,3,0,Spoons,428.81,0
+32,Medium,5,4,0,Trays,761.72,0
+47,Medium,5,1,1,Combo Pack,686.71,1
+59,Medium,3,1,1,Spoons,373.11,0
+34,Medium,4,8,0,Plates,928.24,1
+22,Low,3,1,1,Plates,484.22,0
+46,Medium,3,5,1,Spoons,606.02,1
+21,Low,1,1,1,Bowls,208.98,0
+27,Low,5,4,0,Spoons,788.85,0
+34,Medium,3,3,1,Spoons,564.1,0
+27,Medium,1,6,1,Trays,492.36,1
+34,High,4,6,1,Plates,821.68,1
+37,Medium,3,5,1,Plates,738.15,1
+41,Medium,5,9,1,Combo Pack,1024.61,1
+22,Medium,3,4,1,Spoons,514.24,0
+51,Medium,4,0,0,Spoons,541.3,0
+23,Low,3,2,0,Bowls,584.17,0
+19,Low,5,8,0,Plates,1019.64,1
+30,Low,1,0,0,Bowls,145.61,0
+28,Medium,5,4,1,Trays,793.81,1
+40,Low,1,1,1,Combo Pack,194.07,0
+33,Low,2,3,1,Bowls,482.14,0
+48,Low,5,0,0,Plates,532.44,0
+28,High,5,2,1,Trays,684.99,1
+33,Low,4,9,0,Spoons,899.78,1
+25,Medium,3,6,0,Trays,706.34,0
+21,Low,1,9,0,Bowls,631.68,0
+57,Medium,1,2,1,Plates,308.84,0
+21,Low,4,3,0,Bowls,651.12,0
+42,Low,4,1,1,Spoons,500.67,1
+20,Medium,3,2,0,Spoons,531.34,0
+49,Low,3,8,1,Plates,797.56,1
+20,Low,5,2,1,Combo Pack,650.57,1
+44,Low,2,4,1,Trays,612.05,0
+46,Low,3,1,1,Trays,473.82,0
+49,Low,4,3,1,Spoons,642.34,1
+36,Low,3,6,1,Bowls,770.76,1
+38,High,1,6,1,Bowls,592.09,1
+22,Medium,2,2,0,Combo Pack,392.73,0
+35,Medium,5,4,0,Bowls,817.37,0
+45,Low,1,0,0,Trays,150.6,0
+59,High,1,9,1,Bowls,642.64,1
+39,Low,2,9,1,Combo Pack,740.05,1
+38,Low,5,9,1,Trays,1059.24,1
+23,Medium,4,0,1,Bowls,516.64,1
+18,Low,5,4,0,Trays,827.99,0
+22,Low,3,9,1,Spoons,861.88,1
+58,Medium,1,8,1,Spoons,539.46,1
+29,High,3,0,0,Spoons,353.08,0
+43,Medium,4,0,1,Bowls,472.68,1
+51,Medium,3,3,0,Combo Pack,535.89,0
+31,High,5,3,1,Trays,802.54,1
+43,Low,3,1,0,Plates,391.85,0
+44,Low,4,8,1,Spoons,882.13,1
+26,Low,4,8,1,Spoons,947.65,1
+43,Medium,4,1,0,Plates,535.01,0
+39,Medium,5,8,0,Plates,1023.02,1
+47,High,4,5,0,Bowls,743.02,1
+34,Medium,1,7,1,Trays,562.84,1
+43,Medium,4,9,1,Spoons,938.58,1
+53,Low,3,3,0,Combo Pack,583.35,0
+18,High,3,1,0,Bowls,372.75,0
+25,High,3,1,1,Bowls,431.83,0
+52,High,5,8,1,Combo Pack,1014.83,1
+32,Low,3,0,1,Combo Pack,426.68,0
+39,Medium,5,6,0,Combo Pack,974.65,1
+31,Low,5,2,1,Plates,680.45,1
+43,Low,4,2,1,Spoons,673.97,1
+45,Low,1,1,1,Plates,217.05,0
+40,Medium,4,9,1,Spoons,1016.43,1
+31,Medium,4,5,1,Plates,790.87,1
+41,Low,5,9,1,Trays,1004.33,1
+19,Low,5,1,0,Spoons,665.35,0
+43,Medium,3,9,1,Bowls,847.44,1
+31,Low,3,3,0,Spoons,581.28,0
+24,Low,4,9,0,Spoons,938.84,1
+20,Medium,2,8,0,Spoons,684.64,0
+40,Medium,2,8,1,Trays,768.45,1
+35,Low,3,5,0,Plates,645.06,0
+55,Low,2,3,0,Bowls,491.32,0
+52,Low,3,6,0,Plates,688.73,0
+32,High,5,0,0,Plates,683.33,0
+42,Medium,4,3,0,Combo Pack,616.08,0
+54,Medium,1,4,1,Trays,369.29,0
+45,Low,4,7,1,Combo Pack,926.23,1
+27,Medium,3,1,0,Trays,427.75,0
+56,Low,3,4,1,Plates,680.05,0
+34,Medium,4,5,1,Plates,794.59,1
+56,High,3,4,0,Trays,592.27,0
+39,Medium,2,8,1,Plates,609.34,1
+43,High,2,9,1,Plates,749.03,1
+42,Medium,3,0,0,Bowls,405.08,0
+34,Low,3,2,0,Combo Pack,558.36,0
+30,High,2,1,1,Combo Pack,429.42,0
+37,Low,3,2,1,Combo Pack,465.75,0
+42,Medium,3,9,0,Spoons,890.06,0
+21,Low,4,8,1,Bowls,938.27,1
+27,Low,1,8,1,Combo Pack,653.67,1
+20,Medium,2,9,1,Combo Pack,774.93,1
+58,Low,4,1,1,Bowls,452.88,1
+35,Medium,1,2,0,Plates,292.23,0
+53,Medium,3,3,1,Combo Pack,492.21,0
+39,Low,3,8,1,Plates,789.87,1
+51,Low,4,2,0,Combo Pack,649.0,0
+25,Medium,3,6,1,Trays,715.26,1
+57,Low,5,2,1,Spoons,757.4,1
+36,Medium,4,6,0,Combo Pack,817.09,1
+59,Medium,1,6,1,Trays,435.08,1
+58,High,4,8,0,Bowls,773.96,1
+54,Medium,2,1,0,Trays,357.44,0
+23,Medium,4,5,0,Bowls,739.3,1
+43,Medium,3,8,0,Combo Pack,751.15,0
+51,Low,3,1,1,Bowls,364.97,0
+23,Low,5,1,0,Trays,613.26,0
+54,Medium,5,4,1,Spoons,790.28,1
+50,Medium,5,9,0,Plates,1083.29,1
+39,Medium,1,9,1,Plates,659.43,1
+38,High,5,9,1,Spoons,1130.4,1
+23,High,1,7,1,Plates,498.22,1
+23,High,5,8,0,Combo Pack,1044.05,1
+21,Medium,1,1,0,Combo Pack,252.36,0
+47,Low,4,4,0,Trays,734.73,0
+28,Medium,4,6,1,Trays,778.17,1
+47,Low,3,5,0,Bowls,703.58,0
+48,Medium,1,5,1,Trays,464.76,1
+41,Medium,2,6,1,Combo Pack,566.03,1
+26,Medium,3,2,0,Trays,499.4,0
+20,Low,4,2,1,Plates,588.02,1
+48,Low,1,9,1,Bowls,674.46,1
+57,Medium,5,8,1,Bowls,941.01,1
+54,Low,2,7,0,Combo Pack,648.53,0
+53,High,4,4,0,Trays,719.77,0
+41,Low,3,5,0,Plates,651.65,0
+48,Low,1,9,1,Trays,717.35,1
+23,Low,2,0,1,Spoons,338.7,0
+19,Medium,1,9,0,Trays,649.63,0
+37,Medium,5,0,1,Combo Pack,610.83,1
+45,Low,3,3,0,Trays,564.78,0
+28,Low,1,1,1,Bowls,270.16,0
+21,Medium,4,6,1,Plates,708.72,1
+32,Low,3,1,1,Combo Pack,434.92,0
+23,Medium,4,9,1,Spoons,875.78,1
+47,Medium,1,1,0,Plates,313.91,0
+55,Low,3,4,0,Plates,596.96,0
+19,Low,4,3,1,Bowls,640.33,1
+32,High,5,7,0,Bowls,994.84,1
+28,Medium,5,3,0,Bowls,771.12,0
+25,Medium,1,5,1,Combo Pack,393.57,1
+43,Low,3,4,0,Trays,596.45,0
+22,Medium,2,1,1,Plates,333.24,0
+23,Low,3,7,1,Trays,662.77,1
+43,Medium,5,1,1,Trays,615.49,1
+21,High,4,8,1,Bowls,890.82,1
+36,Low,2,8,1,Trays,694.25,1
+37,Low,1,2,1,Plates,225.89,0
+50,Low,2,3,1,Plates,507.58,0
+37,Low,1,7,0,Spoons,544.89,0
+29,Low,2,8,1,Combo Pack,701.88,1
+18,Low,1,2,1,Trays,320.03,0
+43,Medium,1,4,0,Combo Pack,360.6,0
+31,Medium,2,7,0,Combo Pack,672.82,0
+55,Low,2,2,1,Combo Pack,381.65,0
+54,High,1,6,0,Combo Pack,455.17,0
+28,Low,5,7,1,Plates,978.67,1
+53,High,2,9,1,Trays,824.58,1
+30,Low,3,2,0,Spoons,536.24,0
+20,High,4,1,1,Combo Pack,596.15,1
+50,Medium,1,9,0,Spoons,623.97,0
+23,High,1,6,1,Plates,420.12,1
+27,High,4,8,0,Plates,974.51,1
+22,Low,5,0,1,Bowls,702.73,1
+40,High,4,2,0,Combo Pack,677.14,0
+27,Low,2,4,0,Bowls,483.21,0
+19,Low,4,2,0,Spoons,542.27,0
+30,Low,1,0,0,Trays,146.72,0
+57,Medium,4,6,1,Bowls,715.81,1
+19,Low,3,6,0,Plates,694.63,0
+37,Medium,2,9,1,Combo Pack,830.28,1
+18,Medium,4,7,1,Spoons,842.92,1
+54,Medium,1,4,1,Plates,415.12,0
+26,High,2,9,1,Trays,818.78,1
+34,Medium,1,4,1,Combo Pack,379.8,0
+26,Low,5,4,0,Trays,901.78,0
+28,Low,3,0,0,Trays,499.6,0
+32,Low,5,9,1,Combo Pack,1043.44,1
+41,Low,3,4,1,Combo Pack,571.12,0
+55,Low,4,5,1,Trays,784.86,1
+52,Low,2,0,0,Spoons,282.62,0
+47,High,4,6,0,Combo Pack,742.17,1
+48,Medium,3,0,0,Plates,464.06,0
+22,Low,3,1,1,Bowls,510.82,0
+31,Medium,3,1,1,Spoons,457.78,0
+28,Low,1,4,0,Combo Pack,336.86,0
+26,Medium,2,9,0,Combo Pack,688.52,0
+51,Medium,4,6,1,Spoons,805.36,1
+29,Medium,4,0,1,Bowls,475.01,1
+52,Medium,5,9,0,Trays,1032.95,1
+52,High,3,0,1,Plates,451.1,0
+18,High,3,0,1,Combo Pack,436.66,0
+57,Medium,3,5,1,Bowls,718.91,1
+39,Medium,4,1,1,Plates,500.47,1
+46,Medium,5,0,0,Spoons,582.84,0
+25,Low,1,5,0,Combo Pack,487.95,0
+28,Low,2,1,1,Trays,372.4,0
+58,Low,1,5,0,Spoons,526.62,0
+54,Medium,4,9,1,Combo Pack,971.03,1
+31,Medium,3,7,1,Bowls,842.41,1
+47,Low,2,1,1,Plates,377.0,0
+52,High,4,8,0,Plates,953.11,1
+38,High,4,7,0,Combo Pack,833.82,1
+54,Medium,4,9,1,Spoons,950.71,1
+22,Medium,2,0,0,Trays,345.55,0
+36,High,2,6,1,Bowls,680.65,1
+31,Low,5,9,1,Combo Pack,1086.46,1
+43,Medium,5,5,0,Bowls,845.84,1
+21,Low,1,5,1,Plates,518.87,1
+42,Medium,2,5,0,Trays,440.4,0
+59,Low,2,5,0,Bowls,478.89,0
+42,High,2,9,1,Combo Pack,784.08,1
+35,High,5,6,1,Trays,900.71,1
+57,Low,4,2,1,Spoons,630.28,1
+25,Medium,3,5,1,Combo Pack,653.22,1
+56,High,5,2,1,Bowls,728.55,1
+57,Medium,2,6,0,Trays,559.28,0
+31,High,5,6,0,Combo Pack,928.52,1
+49,Medium,1,7,1,Trays,599.72,1
+55,Low,2,1,0,Trays,411.03,0
+50,Low,1,8,1,Trays,700.68,1
+40,Low,2,4,1,Bowls,512.2,0
+32,Medium,5,8,1,Combo Pack,1013.7,1
+50,Low,4,9,0,Plates,873.84,1
+42,Medium,3,4,0,Plates,573.43,0
+34,Medium,1,6,0,Bowls,490.35,0
+50,Medium,5,8,1,Bowls,1052.52,1
+19,High,4,3,1,Trays,619.45,1
+31,High,5,1,1,Combo Pack,689.82,1
+57,Medium,1,8,1,Combo Pack,599.92,1
+57,High,3,1,0,Spoons,441.14,0
+56,Medium,5,2,1,Spoons,712.44,1
+23,Medium,2,9,1,Plates,730.44,1
+23,High,4,1,0,Spoons,528.55,0
+20,Low,5,2,0,Spoons,614.76,0
+24,Low,4,5,1,Plates,737.6,1
+25,High,2,2,1,Plates,376.0,0
+59,Medium,3,9,0,Spoons,824.2,0
+32,High,3,7,1,Combo Pack,770.84,1
+46,High,2,5,0,Spoons,582.93,0
+50,Low,4,6,0,Trays,811.61,1
+47,High,5,0,1,Trays,649.77,1
+56,Medium,2,2,1,Trays,428.78,0
+44,Medium,1,2,1,Bowls,285.25,0
+53,Medium,4,1,0,Trays,526.86,0
+46,High,3,6,0,Combo Pack,715.64,0
+55,Low,2,8,0,Bowls,728.69,0
+50,Medium,3,3,0,Bowls,619.89,0
+54,Medium,4,4,0,Trays,759.56,0
+44,Medium,3,2,0,Spoons,472.93,0
+50,Medium,2,8,0,Plates,694.9,0
+21,Low,4,3,0,Spoons,683.55,0
+39,Low,1,4,1,Spoons,453.4,0
+19,Low,2,0,0,Bowls,346.95,0
+27,High,5,1,0,Bowls,646.81,0
+22,Low,2,8,1,Bowls,637.3,1
+27,Low,4,1,0,Combo Pack,500.05,0
+50,High,2,4,1,Combo Pack,513.63,0
+55,Low,1,7,0,Plates,567.11,0
+30,High,1,2,0,Bowls,245.07,0
+48,Medium,5,5,0,Trays,852.23,1
+53,High,3,3,0,Bowls,581.56,0
+41,Low,4,6,1,Combo Pack,742.44,1
+32,Low,4,9,1,Bowls,1005.25,1
+46,Medium,3,2,0,Combo Pack,481.12,0
+25,High,1,5,0,Bowls,512.88,0
+22,Medium,1,9,1,Trays,623.33,1
+46,Low,2,8,0,Plates,648.67,0
+21,Medium,5,9,1,Trays,1027.09,1
+29,Medium,5,0,0,Combo Pack,595.24,0
+19,Medium,5,2,1,Spoons,680.58,1
+44,Medium,2,1,0,Trays,339.2,0
+48,High,5,7,0,Bowls,966.7,1
+53,Medium,3,6,1,Plates,691.44,1
+53,Low,2,1,1,Bowls,346.69,0
+43,Medium,3,5,1,Bowls,564.54,1
+44,Low,2,2,1,Trays,419.58,0
+22,Medium,5,7,1,Plates,945.54,1
+37,Medium,3,9,0,Spoons,930.51,0
+28,Low,3,2,1,Bowls,453.02,0
+27,Low,3,9,0,Plates,759.59,0
+57,Low,2,8,1,Spoons,730.9,1
+55,High,4,0,1,Bowls,517.33,1
+23,High,5,4,0,Plates,749.58,0
+25,Low,3,2,0,Trays,423.51,0
+40,High,4,5,0,Bowls,826.87,1
+43,Medium,5,9,0,Bowls,1120.71,1
+29,Low,5,1,1,Plates,525.63,1
+43,Low,3,8,0,Bowls,777.09,0
+30,Medium,3,5,0,Spoons,733.21,0
+57,Medium,2,6,1,Bowls,576.2,1
+35,Medium,4,4,1,Combo Pack,675.47,1
+42,Low,4,8,1,Spoons,885.86,1
+50,Low,3,0,1,Plates,343.96,0
+57,Medium,5,4,1,Spoons,714.76,1
+29,Low,3,9,1,Combo Pack,902.63,1
+53,Low,5,5,1,Combo Pack,757.85,1
+21,Low,5,6,1,Bowls,912.36,1
+22,High,3,3,0,Bowls,594.33,0
+54,High,1,0,0,Trays,127.44,0
+25,Medium,4,7,1,Spoons,803.79,1
+59,High,5,9,1,Trays,1110.66,1
+45,Low,5,3,1,Combo Pack,776.64,1
+48,Medium,1,2,1,Bowls,269.14,0
+26,Low,2,6,1,Bowls,660.11,1
+46,Medium,1,1,1,Bowls,310.33,0
+31,High,1,7,1,Plates,563.45,1
+57,Medium,5,5,1,Combo Pack,804.99,1
+58,Low,4,6,0,Bowls,779.33,1
+39,Medium,1,4,0,Combo Pack,414.32,0
+28,Low,2,8,1,Bowls,690.57,1
+40,High,3,4,0,Spoons,646.95,0
+18,Medium,1,4,1,Combo Pack,323.51,0
+54,Medium,1,2,0,Trays,225.29,0
+38,Medium,2,0,1,Plates,309.04,0
+43,Medium,4,1,1,Trays,525.42,1
+53,Low,1,7,1,Combo Pack,518.65,1
+40,Medium,1,0,0,Bowls,111.6,0
+18,Low,4,6,1,Combo Pack,800.98,1
+57,Medium,2,4,1,Plates,497.36,0
+32,High,1,2,0,Combo Pack,332.67,0
+38,High,4,6,1,Bowls,803.45,1
+26,Medium,1,8,0,Trays,593.37,0
+26,Medium,3,1,0,Spoons,508.85,0
+27,Low,5,7,0,Trays,884.38,1
+43,Medium,3,8,1,Bowls,826.82,1
+58,Low,1,2,1,Bowls,216.44,0
+52,Medium,2,1,1,Plates,308.08,0
+42,Low,5,6,0,Combo Pack,839.37,1
+43,Low,3,4,0,Combo Pack,639.1,0
+28,Medium,4,4,1,Trays,696.73,1
+55,Low,2,9,1,Spoons,749.32,1
+19,Medium,3,4,1,Spoons,544.66,0
+24,Low,4,3,0,Plates,635.02,0
+35,Low,1,4,0,Bowls,361.83,0
+44,Medium,4,3,1,Plates,669.17,1
+51,Low,3,5,1,Combo Pack,600.45,1
+44,Low,3,3,0,Bowls,616.49,0
+34,Medium,1,1,0,Plates,166.22,0
+41,Low,4,8,1,Trays,859.67,1
+42,High,4,1,0,Combo Pack,633.86,0
+24,Low,1,8,1,Spoons,578.24,1
+23,Low,4,9,0,Plates,884.26,1
+41,Medium,1,5,0,Combo Pack,460.95,0
+50,Low,2,8,1,Combo Pack,676.23,1
+46,Low,3,8,0,Spoons,758.21,0
+39,Low,2,2,1,Spoons,345.21,0
+43,Low,5,0,1,Spoons,738.42,1
+45,High,5,0,0,Plates,587.42,0
+38,Low,5,2,0,Spoons,603.72,0
+24,Medium,1,4,1,Trays,474.69,0
+34,High,4,2,0,Combo Pack,630.55,0
+37,Medium,2,8,0,Spoons,661.68,0
+58,High,2,8,0,Combo Pack,653.34,0
+37,Low,2,2,1,Bowls,433.67,0
+39,High,2,2,1,Bowls,387.65,0
+45,Low,5,4,1,Spoons,703.7,1
+57,Medium,2,1,0,Combo Pack,439.36,0
+24,Medium,4,5,1,Bowls,728.3,1
+18,Low,5,6,1,Spoons,974.78,1
+49,Medium,2,8,1,Combo Pack,763.92,1
+30,Medium,1,5,1,Spoons,399.95,1
+47,Low,3,2,1,Combo Pack,551.66,0
+40,Low,3,4,1,Bowls,567.43,0
+36,Medium,3,3,1,Spoons,456.66,0
+49,Medium,5,4,0,Bowls,778.77,0
+47,High,2,7,0,Spoons,669.88,0
+46,Medium,5,7,0,Plates,926.86,1
+46,High,4,5,0,Bowls,734.65,1
+47,Medium,1,0,0,Bowls,257.18,0
+33,Low,1,7,1,Trays,555.32,1
+57,Low,3,7,0,Bowls,707.84,0
+36,Medium,3,1,1,Combo Pack,485.1,0
+35,Medium,3,3,1,Spoons,559.88,0
+18,Low,2,1,0,Plates,223.92,0
+31,Low,4,3,1,Combo Pack,671.42,1
+19,High,4,9,1,Combo Pack,969.59,1
+45,Medium,4,6,0,Combo Pack,801.01,1
+47,Medium,4,8,0,Combo Pack,944.59,1
+55,Medium,3,7,0,Plates,716.38,0
+21,Low,1,8,1,Trays,616.82,1
+18,Low,3,7,0,Bowls,671.65,0
+25,Low,4,1,1,Combo Pack,570.35,1
+46,Low,3,6,1,Bowls,797.65,1
+56,Medium,4,1,0,Bowls,500.26,0
+20,Medium,5,1,1,Combo Pack,612.01,1
+49,High,1,3,0,Trays,314.5,0
+27,High,5,0,1,Bowls,606.5,1
+27,Low,2,4,0,Spoons,446.85,0
+36,Medium,3,5,1,Bowls,671.06,1
+51,Medium,2,8,0,Combo Pack,742.34,0
+50,High,3,9,1,Plates,876.72,1
+40,Low,5,7,1,Bowls,861.58,1
+45,Medium,4,1,0,Trays,599.76,0
+49,Medium,4,0,1,Spoons,546.87,1
+24,Low,3,1,0,Spoons,491.51,0
+46,Low,4,6,1,Plates,818.64,1
+25,Medium,5,3,1,Plates,761.01,1
+18,Medium,4,9,0,Bowls,1001.62,1
+20,Low,5,4,0,Combo Pack,896.18,0
+41,Medium,2,6,0,Trays,552.35,0
+40,Low,5,2,1,Spoons,753.91,1
+25,Medium,1,9,0,Plates,645.69,0
+54,Low,1,1,0,Trays,243.52,0
+20,High,1,6,0,Combo Pack,423.17,0
+50,Low,3,4,0,Spoons,585.76,0
+45,Low,3,0,1,Spoons,350.14,0
+25,Low,3,0,0,Combo Pack,376.81,0
+51,Low,5,8,1,Spoons,945.09,1
+52,Medium,3,4,1,Combo Pack,577.55,0
+49,Low,2,0,1,Spoons,279.69,0
+41,High,1,6,0,Bowls,504.84,0
+31,Low,5,8,1,Combo Pack,919.26,1
+49,Low,1,0,1,Trays,127.72,0
+33,Low,3,9,0,Bowls,868.1,0
+21,Low,5,3,0,Trays,710.13,0
+54,Low,4,2,0,Spoons,653.73,0
+38,Medium,2,4,0,Trays,511.26,0
+31,Medium,3,6,0,Bowls,730.34,0
+48,Medium,3,7,1,Combo Pack,820.53,1
+35,Medium,2,1,0,Plates,334.51,0
+24,Medium,2,6,1,Trays,571.28,1
+27,Low,4,0,1,Plates,543.59,1
+24,Medium,3,6,0,Trays,725.48,0
+50,High,3,7,1,Trays,740.63,1
+40,Medium,1,1,0,Combo Pack,319.57,0
+38,Medium,5,8,1,Spoons,989.39,1
+36,Low,5,0,0,Bowls,601.64,0
+36,Medium,1,5,1,Bowls,451.06,1
+53,Medium,5,0,1,Bowls,553.27,1
+46,Medium,2,2,0,Spoons,403.88,0
+35,High,5,5,0,Plates,919.84,1
+19,Low,5,2,1,Bowls,722.25,1
+18,Low,1,7,0,Plates,551.55,0
+22,Medium,4,4,1,Spoons,691.91,1
+37,High,5,1,1,Spoons,666.54,1
+28,Low,5,3,0,Combo Pack,787.49,0
+59,Low,4,8,0,Bowls,930.46,1
+19,Low,1,3,0,Combo Pack,333.41,0
+20,Low,4,9,0,Bowls,966.24,1
+40,Medium,1,9,1,Spoons,674.0,1
+29,Medium,2,7,1,Spoons,599.64,1
+37,Low,1,4,0,Trays,408.41,0
+22,Low,2,9,0,Trays,641.93,0
+54,Low,2,0,0,Spoons,324.13,0
+55,Low,1,6,0,Spoons,533.02,0
+47,Medium,3,2,1,Plates,537.38,0
+26,High,1,9,0,Plates,630.25,0
+51,High,5,7,1,Combo Pack,965.45,1
+52,Low,5,2,1,Trays,771.2,1
+39,High,3,0,1,Trays,470.69,0
+41,Medium,2,4,0,Spoons,498.54,0
+34,Medium,3,1,1,Spoons,456.97,0
+27,Medium,5,3,1,Combo Pack,805.55,1
+47,Low,3,0,1,Trays,324.96,0
+40,Low,1,8,0,Plates,583.85,0
+49,Low,3,5,0,Bowls,716.78,0
+34,Low,2,7,1,Combo Pack,698.76,1
+34,Low,1,3,0,Bowls,368.46,0
+31,Medium,4,8,0,Plates,824.71,1
+26,Medium,5,1,1,Plates,647.5,1
+57,Medium,5,8,0,Bowls,970.5,1
+19,Low,3,4,0,Combo Pack,616.55,0
+42,High,1,5,0,Bowls,409.53,0
+56,High,4,2,1,Combo Pack,548.71,1
+26,Medium,1,3,0,Combo Pack,246.76,0
+39,High,5,5,1,Spoons,911.09,1
+21,Medium,1,6,0,Trays,480.01,0
+43,High,4,0,0,Trays,507.86,0
+46,Low,3,6,1,Plates,699.89,1
+51,Low,2,0,0,Spoons,246.63,0
+40,Low,1,4,1,Trays,337.05,0
+54,Low,2,5,0,Combo Pack,499.73,0
+28,Low,5,1,0,Combo Pack,613.84,0
+23,Medium,3,9,0,Bowls,868.33,0
+35,Medium,3,8,0,Bowls,760.21,0
+38,Medium,1,9,1,Combo Pack,737.32,1
+59,Low,3,5,1,Combo Pack,701.36,1
+53,High,1,6,0,Bowls,540.42,0
+58,Medium,1,9,1,Trays,644.02,1
+55,Low,2,7,1,Plates,725.71,1
+51,Medium,3,9,0,Bowls,839.1,0
+34,Low,1,0,0,Trays,198.44,0
+54,Low,2,7,1,Trays,658.5,1
+42,High,4,3,1,Trays,685.09,1
+55,Low,2,9,1,Spoons,781.85,1
+29,Medium,2,7,1,Spoons,626.24,1
+40,High,1,5,1,Trays,423.35,1
+59,Medium,5,8,0,Combo Pack,1032.0,1
+39,Low,5,3,0,Spoons,785.76,0
+38,Low,5,1,0,Bowls,630.33,0
+44,Low,2,1,1,Spoons,270.64,0
+48,Medium,1,4,1,Combo Pack,389.63,0
+23,Medium,3,9,1,Plates,881.18,1
+44,Low,2,8,1,Spoons,790.27,1
+57,High,2,2,1,Trays,340.1,0
+51,Medium,1,7,1,Trays,528.67,1
+29,Low,4,3,0,Trays,630.53,0
+24,Medium,2,5,1,Plates,617.79,1
+27,Medium,4,9,1,Combo Pack,948.25,1
+34,Low,4,5,0,Bowls,704.63,1
+43,Low,5,2,1,Combo Pack,727.93,1
+38,High,1,4,1,Plates,379.77,0
+45,Medium,4,2,0,Trays,538.78,0
+19,Medium,1,0,0,Combo Pack,155.36,0
+18,Medium,5,6,1,Bowls,986.7,1
+53,Low,1,3,1,Trays,369.21,0
+43,Low,2,6,1,Bowls,605.39,1
+46,Medium,4,2,0,Spoons,587.51,0
+38,Low,1,4,0,Bowls,414.61,0
+28,Low,3,4,0,Trays,614.01,0
+57,High,1,1,0,Spoons,264.61,0
+28,High,4,9,0,Trays,955.74,1
+53,Medium,5,1,1,Trays,693.44,1
+56,High,5,3,0,Spoons,751.16,0
+57,Low,4,3,0,Bowls,601.1,0
+52,High,2,3,0,Plates,419.38,0
+51,Low,2,5,0,Plates,451.05,0
+41,High,5,1,1,Plates,751.34,1
+39,High,5,5,1,Plates,893.14,1
+22,Medium,4,6,1,Combo Pack,758.5,1
+50,High,2,9,0,Plates,735.91,0
+53,Medium,5,2,0,Spoons,668.16,0
+37,Low,2,7,0,Plates,727.13,0
+36,Medium,5,1,0,Trays,579.01,0
+52,Medium,1,7,1,Plates,555.72,1
+34,Low,3,4,0,Bowls,594.57,0
+51,Medium,1,1,1,Spoons,291.34,0
+26,High,5,6,0,Spoons,894.8,1
+43,Low,3,1,1,Combo Pack,362.09,0
+19,Medium,3,5,1,Trays,637.44,1
+26,High,5,9,1,Spoons,1001.39,1
+26,High,5,2,1,Bowls,703.98,1
+57,High,2,8,1,Plates,771.71,1
+34,Medium,5,2,1,Spoons,613.03,1
+18,High,4,2,0,Bowls,559.99,0
+42,Medium,5,4,0,Plates,772.37,0
+57,Low,4,6,1,Combo Pack,780.92,1
+59,Medium,5,7,1,Spoons,987.01,1
+42,Medium,2,6,0,Spoons,591.32,0
+56,Low,4,8,0,Bowls,920.79,1
+52,Medium,1,4,1,Trays,368.71,0
+20,Medium,4,9,0,Combo Pack,961.5,1
+54,Low,2,2,0,Trays,438.89,0
+47,Medium,4,5,0,Spoons,713.39,1
+55,Medium,5,4,1,Trays,839.07,1
+51,Medium,5,3,0,Plates,752.62,0
+29,Low,2,1,1,Combo Pack,402.27,0
+36,Low,3,6,0,Trays,689.93,0
+54,Low,5,4,1,Plates,819.06,1
+34,High,1,3,1,Bowls,347.97,0
+27,Low,2,7,0,Trays,645.19,0
+29,Medium,4,8,1,Combo Pack,912.95,1
+33,Low,4,8,0,Plates,926.84,1
+41,Low,1,2,0,Trays,237.52,0
+36,High,5,2,1,Bowls,771.68,1
+25,Medium,2,4,0,Trays,407.02,0
+48,Low,1,4,1,Plates,365.76,0
+38,Medium,5,9,0,Trays,1045.29,1
+34,Low,2,1,0,Combo Pack,370.62,0
+40,Medium,4,0,0,Spoons,578.81,0
+54,Medium,2,7,1,Plates,557.09,1
+33,Low,3,2,0,Plates,474.62,0
+23,Low,2,0,1,Plates,193.66,0
+25,Low,3,0,0,Plates,401.58,0
+42,High,2,1,0,Trays,363.58,0
+35,High,3,5,1,Combo Pack,729.54,1
+42,Low,4,5,1,Bowls,756.03,1
+29,Medium,5,2,0,Combo Pack,752.2,0
+32,Low,3,3,1,Plates,579.19,0
+43,Low,3,1,0,Trays,428.24,0
+58,Medium,4,1,1,Trays,479.55,1
+43,High,3,6,1,Plates,713.75,1
+49,High,1,0,1,Trays,125.39,0
+27,Medium,4,6,1,Plates,864.76,1
+33,Low,1,0,0,Combo Pack,191.9,0
+24,Medium,4,5,1,Spoons,809.76,1
+34,Low,3,2,1,Trays,475.99,0
+40,Medium,1,7,0,Plates,563.44,0
+43,Low,3,5,0,Plates,660.47,0
+38,Medium,4,1,1,Trays,547.75,1
+39,Low,3,7,1,Bowls,728.37,1
+24,Low,1,4,0,Plates,419.62,0
+31,High,1,7,1,Trays,503.69,1
+32,Low,3,7,1,Plates,689.53,1
+24,Medium,2,5,0,Bowls,612.14,0
+26,Low,4,1,0,Spoons,586.36,0
+25,Low,4,7,1,Bowls,853.29,1
+40,Low,3,5,0,Combo Pack,733.26,0
+46,Low,2,5,0,Trays,536.61,0
+35,High,1,7,1,Bowls,616.14,1
+48,Low,5,0,1,Spoons,608.78,1
+47,High,5,1,1,Plates,598.76,1
+56,Medium,3,8,1,Trays,892.4,1
+52,Medium,2,7,0,Bowls,699.54,0
+35,Medium,2,6,0,Spoons,593.95,0
+59,Medium,4,6,1,Bowls,836.36,1
+56,Medium,1,4,0,Combo Pack,379.81,0
+34,Low,2,1,1,Trays,391.46,0
+31,Low,5,5,0,Plates,730.45,1
+48,High,1,9,0,Spoons,599.01,0
+41,High,1,2,0,Bowls,348.96,0
+52,High,3,3,1,Trays,537.52,0
+51,Medium,2,9,0,Bowls,760.38,0
+20,Medium,3,1,0,Trays,382.66,0
+54,Medium,2,1,0,Combo Pack,442.39,0
+57,Medium,4,7,1,Bowls,909.53,1
+43,Low,3,7,0,Combo Pack,739.97,0
+40,Medium,3,9,0,Spoons,829.77,0
+56,Low,5,5,0,Combo Pack,901.48,1
+32,Low,3,4,1,Trays,699.12,0
+21,High,2,7,0,Spoons,697.69,0
+46,Low,5,3,0,Bowls,858.59,0
+39,Low,3,3,0,Bowls,503.88,0
+42,Low,3,4,1,Trays,559.03,0
+30,High,4,0,1,Plates,440.55,1
+35,Medium,3,0,1,Plates,422.09,0
+50,Medium,1,1,1,Bowls,258.78,0
+33,High,5,7,1,Trays,942.4,1
+59,High,1,6,0,Plates,540.46,0
+19,Low,5,9,1,Combo Pack,1111.62,1
+52,Medium,4,8,1,Bowls,823.72,1
+59,Medium,3,4,1,Combo Pack,570.15,0
+51,Medium,3,1,0,Trays,491.01,0
+47,Low,3,6,1,Combo Pack,676.61,1
+30,High,5,7,0,Plates,910.09,1
+30,Medium,3,6,1,Plates,750.93,1
+35,Low,1,6,0,Spoons,435.52,0
+49,Medium,3,4,0,Bowls,584.92,0
+49,Low,4,1,0,Trays,566.43,0
+52,Low,1,5,0,Bowls,421.31,0
+56,Medium,3,3,1,Combo Pack,589.16,0
+46,Low,3,9,0,Trays,821.56,0
+46,Medium,2,1,0,Trays,420.43,0
+33,Medium,5,8,1,Plates,993.71,1
+27,Low,1,6,0,Combo Pack,533.56,0
+47,High,2,5,1,Plates,587.3,1
+42,Low,4,4,0,Plates,668.62,0
+56,Low,5,2,0,Spoons,597.33,0
+37,Low,1,9,1,Plates,668.04,1
+22,Low,3,9,1,Bowls,853.61,1
+18,Low,1,3,0,Trays,377.79,0
+47,Medium,3,2,1,Plates,488.67,0
+20,High,5,7,1,Bowls,928.48,1
+31,Low,3,2,1,Combo Pack,600.42,0
+47,Medium,4,6,0,Trays,726.38,1
+21,Medium,3,6,0,Combo Pack,736.7,0
+35,High,4,6,1,Bowls,771.27,1
+54,Medium,5,6,1,Combo Pack,883.21,1
+42,Low,5,1,0,Combo Pack,634.14,0
+18,Low,1,9,1,Combo Pack,609.83,1
+32,Medium,4,2,0,Plates,628.56,0
+26,High,4,9,0,Plates,1019.53,1
+32,Low,2,8,0,Plates,723.5,0
+41,Low,2,2,1,Trays,405.17,0
+21,High,2,1,0,Bowls,300.68,0
+29,High,3,8,1,Plates,825.84,1
+54,High,2,9,1,Combo Pack,857.82,1
+54,Medium,4,8,1,Combo Pack,880.97,1
+23,Low,3,3,1,Combo Pack,531.2,0
+56,Medium,5,8,1,Combo Pack,971.95,1
+41,Medium,1,2,1,Spoons,275.53,0
+28,Low,2,6,0,Trays,462.74,0
+30,Medium,5,6,0,Bowls,920.25,1
+51,Medium,4,7,0,Bowls,807.72,1
+42,Low,1,9,0,Plates,569.49,0
+24,Medium,5,3,1,Spoons,787.66,1
+21,Medium,1,2,0,Bowls,245.9,0
+25,High,2,2,1,Trays,383.07,0
+37,Low,4,4,1,Combo Pack,773.32,1
+46,Low,1,0,1,Plates,129.54,0
+27,Medium,5,9,0,Trays,973.37,1
+51,Low,2,2,1,Bowls,413.47,0
+43,Medium,2,5,0,Spoons,607.47,0
+58,Medium,5,2,0,Plates,621.28,0
+20,Low,5,4,1,Bowls,820.38,1
+23,Medium,1,8,1,Plates,629.05,1
+22,Medium,3,1,0,Bowls,347.04,0
+22,Low,2,1,1,Combo Pack,389.93,0
+40,High,1,5,0,Spoons,493.83,0
+26,High,5,5,0,Combo Pack,834.41,1
+52,Medium,1,7,0,Bowls,612.62,0
+37,Medium,5,1,1,Trays,706.82,1
+59,Medium,4,8,1,Combo Pack,905.16,1
+52,High,5,1,0,Trays,627.43,0
+35,Medium,5,0,0,Bowls,551.36,0
+34,Medium,5,9,1,Spoons,1048.12,1
+41,High,3,1,0,Trays,478.49,0
+20,Low,5,6,0,Bowls,883.79,1
+49,High,2,7,1,Trays,540.12,1
+52,Low,2,4,0,Combo Pack,563.44,0
+55,Low,1,5,1,Bowls,459.51,1
+30,Low,3,0,0,Combo Pack,381.02,0
+42,High,1,5,1,Plates,492.86,1
+26,High,2,7,0,Bowls,726.23,0
+21,Medium,2,2,1,Trays,259.9,0
+31,Medium,4,0,0,Plates,521.71,0
+54,Medium,5,3,1,Combo Pack,678.67,1
+51,High,2,0,1,Combo Pack,324.96,0
+28,Medium,1,7,0,Trays,556.4,0
+58,Low,1,4,0,Plates,431.79,0
+20,Low,5,0,1,Spoons,575.04,1
+45,Medium,5,7,1,Trays,856.34,1
+46,Medium,4,8,0,Combo Pack,877.48,1
+26,Low,3,9,0,Bowls,870.34,0
+20,Low,1,1,1,Plates,300.77,0
+42,High,5,8,0,Spoons,941.41,1
+51,Low,1,7,1,Bowls,601.35,1
+29,Medium,5,6,1,Plates,867.61,1
+59,High,2,2,1,Trays,418.12,0
+26,Medium,1,1,0,Trays,224.51,0
+32,Low,2,6,0,Plates,609.11,0
+57,Medium,1,4,1,Spoons,444.59,0
+42,High,3,5,1,Plates,588.65,1
+22,Medium,4,3,1,Bowls,616.0,1
+28,High,2,1,0,Bowls,359.25,0
+51,Low,5,8,0,Trays,1120.08,1
+41,Medium,3,2,0,Plates,456.84,0
+32,Medium,1,6,1,Trays,602.01,1
+55,High,2,7,0,Spoons,750.22,0
+25,Low,1,1,0,Bowls,245.13,0
+22,High,1,5,0,Combo Pack,435.09,0
+43,Medium,1,7,0,Combo Pack,515.4,0
+35,Low,4,6,1,Plates,796.59,1
+23,Low,4,2,1,Plates,529.66,1
+54,High,5,0,0,Combo Pack,596.19,0
+30,Low,2,5,0,Plates,624.84,0
+45,Low,3,7,0,Bowls,719.45,0
+22,Low,3,5,0,Spoons,637.96,0
+30,High,3,4,0,Spoons,514.94,0
+34,Medium,1,7,1,Trays,568.7,1
+57,Medium,4,1,0,Bowls,563.22,0
+49,Low,2,0,0,Plates,303.19,0
+46,Medium,1,0,0,Plates,189.16,0
+20,Medium,4,3,1,Trays,635.36,1
+57,High,4,5,1,Trays,775.1,1
+51,High,2,8,1,Plates,698.56,1
+57,Low,2,0,1,Plates,315.75,0
+44,Medium,2,0,1,Bowls,310.75,0
+30,Low,1,4,0,Trays,456.17,0
+50,Medium,5,9,1,Bowls,1083.85,1
+23,Low,2,4,0,Plates,509.64,0
+41,Low,5,4,0,Combo Pack,875.92,0
+36,Low,1,9,1,Combo Pack,671.01,1
+33,Medium,5,5,0,Plates,915.25,1
+57,Low,3,7,1,Trays,780.35,1
+45,Medium,5,2,0,Combo Pack,607.9,0
+50,Medium,2,8,1,Trays,765.24,1
+58,Low,1,0,1,Combo Pack,206.76,0
+30,Medium,2,3,1,Trays,447.4,0
+42,Low,3,8,1,Combo Pack,814.07,1
+59,Medium,2,7,1,Trays,632.75,1
+53,Medium,2,9,1,Bowls,761.35,1
+44,Low,2,8,0,Trays,670.41,0
+55,Low,4,0,0,Bowls,563.71,0
+24,Low,3,8,1,Bowls,794.32,1
+22,High,2,2,1,Plates,380.87,0
+48,Medium,2,9,1,Bowls,703.75,1
+40,Medium,2,8,1,Spoons,713.44,1
+59,Medium,1,0,1,Bowls,209.36,0
+27,Low,4,0,0,Trays,519.42,0
+49,Medium,1,8,0,Bowls,548.64,0
+47,Medium,4,5,0,Trays,669.94,1
+56,Low,2,3,0,Trays,481.28,0
+48,Low,3,6,1,Spoons,774.23,1
+35,Low,5,4,1,Bowls,748.68,1
+53,Medium,5,9,1,Bowls,1129.47,1
+19,High,2,6,0,Combo Pack,614.2,0
+31,Low,1,7,0,Combo Pack,549.65,0
+30,Medium,3,7,0,Plates,730.12,0
+46,Low,4,0,1,Trays,430.77,1
+29,High,2,7,0,Spoons,699.39,0
+56,Low,3,5,0,Combo Pack,611.22,0
+19,Medium,3,3,0,Bowls,511.01,0
+49,Medium,4,7,0,Plates,899.6,1
+30,Medium,3,2,1,Spoons,405.85,0
+44,Medium,1,3,0,Bowls,273.82,0
+58,Low,1,5,0,Bowls,449.09,0
+34,Low,1,6,0,Trays,514.66,0
+57,Low,3,3,0,Trays,574.24,0
+48,Low,1,3,1,Combo Pack,334.91,0
+51,Medium,4,6,1,Combo Pack,926.52,1
+41,Low,3,5,0,Bowls,638.61,0
+52,Low,5,7,1,Bowls,938.46,1
+23,Medium,3,0,0,Combo Pack,360.15,0
+36,High,4,9,1,Combo Pack,956.2,1
+47,Medium,5,6,0,Bowls,930.75,1
+24,Low,3,6,0,Spoons,760.18,0
+27,Low,1,6,1,Bowls,425.54,1
+58,High,2,6,1,Spoons,587.7,1
+49,Low,2,9,1,Spoons,772.34,1
+51,Low,1,9,0,Bowls,679.35,0
+45,Medium,2,7,0,Plates,650.33,0
+32,Medium,2,8,1,Combo Pack,727.12,1
+47,Medium,1,8,0,Trays,559.55,0
+54,Low,1,1,0,Bowls,327.9,0
+46,Low,3,6,0,Spoons,749.63,0
+39,High,3,6,0,Bowls,632.75,0
+21,Low,1,3,0,Combo Pack,296.24,0
+37,Medium,4,8,0,Spoons,847.65,1
+49,Medium,2,7,0,Trays,683.9,0
+53,Medium,3,0,1,Trays,335.76,0
+21,Low,2,1,0,Trays,333.45,0
+44,Low,5,1,0,Plates,672.74,0
+34,Medium,1,7,1,Spoons,546.69,1
+29,High,4,0,1,Spoons,512.94,1
+39,High,5,3,0,Plates,696.71,0
+34,Low,5,9,1,Spoons,1079.74,1
+27,Low,5,4,0,Plates,769.34,0
+18,High,1,8,1,Bowls,583.77,1
+39,Medium,3,6,0,Combo Pack,711.89,0
+43,High,1,7,0,Trays,555.15,0
+35,Low,3,8,1,Plates,801.2,1
+31,Medium,5,6,1,Plates,862.47,1
+46,Medium,5,4,0,Plates,785.02,0
+29,Medium,4,4,0,Bowls,700.11,0
+53,Medium,3,9,0,Plates,781.25,0
+52,Low,5,5,1,Combo Pack,826.87,1
+29,Medium,2,4,0,Combo Pack,519.38,0
+24,Low,4,8,0,Trays,836.13,1
+46,Medium,1,2,0,Bowls,357.83,0
+28,High,4,2,1,Combo Pack,663.48,1
+50,Low,2,6,1,Spoons,537.74,1
+23,High,3,6,1,Spoons,767.88,1
+32,Low,1,5,0,Spoons,442.82,0
+49,Medium,1,2,1,Plates,320.93,0
+28,High,3,6,1,Plates,675.17,1
+40,Low,4,4,1,Spoons,746.15,1
+43,Low,5,6,0,Trays,920.3,1
+51,Medium,4,1,0,Trays,509.29,0
+51,Low,2,5,1,Plates,491.74,1
+46,Medium,5,7,0,Spoons,876.98,1
+21,High,4,0,1,Trays,509.4,1
+34,Medium,3,3,1,Plates,578.62,0
+52,Low,2,0,1,Spoons,332.55,0
+30,Medium,2,0,1,Bowls,294.1,0
+58,Medium,2,9,1,Spoons,692.15,1
+56,Low,5,7,0,Spoons,915.9,1
+32,Medium,1,6,0,Combo Pack,557.62,0
+46,Medium,5,9,0,Combo Pack,1025.77,1
+46,Medium,4,0,1,Bowls,507.17,1
+28,Low,1,1,0,Bowls,196.22,0
+49,Medium,4,3,0,Spoons,666.83,0
+19,Low,1,0,1,Trays,177.12,0
+31,Low,5,2,1,Bowls,752.34,1
+37,High,2,7,1,Spoons,688.68,1
+39,Medium,3,7,1,Plates,725.21,1
+28,Low,2,7,1,Combo Pack,643.67,1
+44,Low,5,5,1,Trays,822.44,1
+20,Low,1,5,1,Spoons,379.03,1
+34,Low,2,4,1,Plates,457.13,0
+45,Low,5,8,1,Combo Pack,1009.91,1
+46,Low,4,3,1,Plates,666.26,1
+38,Medium,3,9,1,Spoons,857.43,1
+33,Medium,2,6,0,Bowls,584.91,0
+54,Medium,1,0,0,Combo Pack,246.65,0
+37,Medium,4,8,0,Plates,903.18,1
+23,Low,5,6,0,Bowls,935.16,1
+36,High,3,9,0,Trays,761.31,0
+22,High,1,8,0,Spoons,403.88,0
+20,High,5,6,0,Spoons,914.19,1
+18,High,5,1,1,Combo Pack,578.76,1
+55,High,2,5,1,Plates,539.38,1
+32,Medium,2,9,0,Trays,734.9,0
+51,Low,1,3,1,Combo Pack,429.37,0
+52,Medium,5,2,1,Combo Pack,720.0,1
+42,Medium,2,1,1,Plates,358.29,0
+41,Medium,3,5,1,Trays,691.85,1
+29,Medium,3,7,0,Plates,768.42,0
+35,Low,5,5,0,Spoons,827.12,1
+32,Low,2,8,0,Bowls,753.57,0
+33,High,1,4,0,Spoons,344.51,0
+44,Medium,1,1,1,Spoons,266.16,0
+25,Medium,1,7,0,Combo Pack,472.62,0
+42,Low,3,8,0,Spoons,810.2,0
+34,Low,2,9,0,Trays,759.65,0
+46,High,2,3,0,Spoons,533.82,0
+25,Medium,3,5,1,Trays,571.75,1
+32,Medium,1,9,1,Plates,619.96,1
+44,Medium,1,7,0,Combo Pack,591.13,0
+24,Medium,5,8,0,Trays,1016.77,1
+20,Low,4,4,0,Spoons,709.02,0
+46,Medium,2,5,0,Combo Pack,502.19,0
+41,Medium,2,3,1,Combo Pack,420.46,0
+20,Medium,2,4,0,Trays,562.25,0
+37,Medium,4,6,1,Trays,797.42,1
+32,High,5,8,1,Bowls,1018.77,1
+42,Low,4,9,0,Bowls,944.24,1
+47,High,1,5,0,Combo Pack,390.85,0
+31,Low,1,5,1,Bowls,496.69,1
+24,Medium,2,7,1,Spoons,675.16,1
+34,Low,3,3,0,Plates,665.28,0
+37,Low,2,2,1,Combo Pack,349.22,0
+53,Medium,3,6,1,Plates,741.13,1
+26,Low,4,4,0,Bowls,634.42,0
+55,Medium,1,1,1,Trays,257.87,0
+39,High,3,1,0,Combo Pack,498.83,0
+19,Low,4,5,1,Bowls,646.39,1
+41,Medium,1,7,1,Spoons,539.75,1
+25,Medium,3,0,1,Combo Pack,371.84,0
+28,Medium,2,5,0,Combo Pack,514.9,0
+30,Low,2,1,0,Trays,369.26,0
+34,Low,2,1,1,Combo Pack,406.03,0
+25,Low,4,6,1,Trays,793.34,1
+38,Low,2,9,1,Bowls,760.27,1
+35,Low,5,0,1,Spoons,605.72,1
+47,Medium,1,5,1,Spoons,450.09,1
+35,High,4,6,0,Combo Pack,745.53,1
+48,High,2,7,0,Combo Pack,705.42,0
+55,Medium,1,6,0,Bowls,514.76,0
+49,Low,3,5,1,Trays,669.74,1
+28,Low,2,8,1,Spoons,659.67,1
+42,Low,1,2,1,Trays,277.04,0
+50,Low,5,5,0,Bowls,841.19,1
+55,Medium,3,3,0,Spoons,473.29,0
+58,Medium,5,1,0,Spoons,565.6,0
+25,Low,1,0,1,Plates,169.96,0
+28,Low,5,0,0,Bowls,626.13,0
+39,High,1,9,0,Bowls,617.34,0
+41,Medium,1,2,0,Plates,249.06,0
+58,Low,5,3,1,Trays,709.27,1
+34,High,1,1,0,Plates,227.23,0
+29,High,2,0,1,Bowls,282.31,0
+49,Low,1,3,1,Trays,458.28,0
+32,Low,4,6,1,Spoons,852.73,1
+33,Medium,1,9,1,Plates,701.24,1
+39,High,4,5,0,Trays,808.43,1
+45,High,1,5,0,Trays,400.06,0
+37,Low,1,8,1,Trays,538.88,1
+50,Low,5,1,1,Plates,594.66,1
+27,Medium,2,3,1,Spoons,516.73,0
+57,Medium,2,4,1,Trays,472.64,0
+49,Low,3,0,0,Plates,337.43,0
+50,High,5,7,0,Bowls,928.45,1
+19,Medium,5,7,1,Plates,938.07,1
+50,High,2,5,0,Plates,563.42,0
+50,High,5,4,0,Plates,812.55,0
+58,Medium,2,7,1,Trays,608.59,1
+30,Medium,5,2,0,Plates,734.28,0
+47,Medium,1,2,0,Bowls,268.04,0
+50,Low,2,1,1,Trays,342.19,0
+30,Medium,2,4,1,Bowls,534.34,0
+43,Low,4,2,0,Combo Pack,567.91,0
+39,Medium,5,2,1,Plates,671.53,1
+56,Low,5,5,1,Trays,879.58,1
+19,Low,2,7,0,Trays,607.11,0
+55,Low,1,1,0,Plates,230.76,0
+56,Low,1,3,0,Spoons,377.79,0
+43,Medium,1,6,1,Spoons,602.7,1
+32,Medium,5,0,0,Bowls,630.27,0
+51,Medium,4,0,1,Plates,523.63,1
+59,Low,2,9,1,Plates,776.54,1
+57,Low,3,6,1,Combo Pack,646.34,1
+28,Low,4,6,1,Spoons,805.78,1
+20,Low,3,0,1,Spoons,398.51,0
+23,High,4,0,0,Plates,516.08,0
+26,Low,1,3,0,Bowls,355.83,0
+23,Low,5,4,1,Plates,818.98,1
+26,Low,3,4,0,Bowls,584.43,0
+56,Low,4,3,0,Spoons,652.93,0
+48,Medium,5,7,1,Combo Pack,888.61,1
+49,Medium,3,6,1,Trays,684.0,1
+58,Low,2,8,0,Spoons,769.54,0
+29,Low,4,6,1,Bowls,815.94,1
+25,Low,2,9,0,Plates,748.95,0
+25,Low,1,0,1,Spoons,294.81,0
+45,Low,2,6,0,Combo Pack,531.96,0
+37,High,2,0,1,Bowls,244.53,0
+24,Medium,4,6,0,Plates,885.64,1
+28,Medium,1,9,1,Trays,652.3,1
+37,Medium,2,7,0,Bowls,637.87,0
+33,Medium,5,8,0,Plates,940.04,1
+21,Medium,3,2,0,Trays,522.38,0
+23,Medium,2,3,0,Plates,477.22,0
+39,Medium,1,3,0,Trays,295.28,0
+43,Low,2,8,0,Trays,692.99,0
+20,Medium,3,6,1,Trays,683.22,1
+58,Medium,1,2,1,Plates,312.8,0
+59,High,4,9,0,Trays,894.04,1
+31,Medium,1,4,1,Bowls,462.6,0
+28,Medium,4,6,0,Combo Pack,845.79,1
+35,Low,1,7,1,Combo Pack,531.84,1
+29,Medium,3,0,0,Trays,389.18,0
+40,Low,3,1,1,Combo Pack,443.18,0
+29,Low,1,6,0,Combo Pack,461.08,0
+30,Low,2,1,1,Trays,327.83,0
+42,Medium,3,6,0,Trays,686.49,0
+36,Low,4,8,0,Bowls,980.64,1
+53,Low,4,1,0,Spoons,597.33,0
+25,High,5,6,1,Plates,946.73,1
+46,Low,4,3,1,Trays,668.5,1
+49,Medium,5,1,1,Trays,594.13,1
+35,Medium,1,6,1,Combo Pack,497.93,1
+23,Low,1,4,1,Bowls,448.52,0
+35,Medium,1,0,1,Combo Pack,137.09,0
+36,Low,2,4,0,Trays,531.83,0
+39,Medium,2,2,1,Trays,516.13,0
+54,Medium,5,6,0,Combo Pack,953.09,1
+49,Medium,4,5,1,Trays,820.7,1
+58,Medium,4,7,1,Spoons,860.92,1
+20,Low,1,4,1,Plates,448.4,0
+45,Low,3,1,1,Plates,414.11,0
+27,Medium,2,8,1,Plates,739.79,1
+52,Medium,2,7,1,Spoons,682.72,1
+46,High,1,5,0,Trays,464.5,0
+32,High,2,9,0,Combo Pack,815.8,0
+50,High,1,6,1,Bowls,473.06,1
+24,Medium,5,8,1,Trays,990.65,1
+29,Low,4,6,0,Spoons,804.77,1
+47,Medium,3,2,0,Spoons,448.52,0
+38,Medium,4,5,0,Plates,761.35,1
+48,Low,4,6,0,Trays,714.05,1
+41,High,5,1,1,Plates,702.35,1
+37,High,2,2,1,Bowls,402.33,0
+54,Medium,3,3,1,Plates,523.96,0
+21,Low,2,9,1,Bowls,708.28,1
+45,Low,4,5,1,Spoons,738.27,1
+37,High,1,0,0,Plates,234.41,0
+41,High,4,8,0,Plates,927.39,1
+49,Low,2,4,0,Combo Pack,464.72,0
+58,Low,4,6,0,Spoons,757.7,1
+53,High,1,8,0,Combo Pack,632.84,0
+51,Low,5,8,0,Bowls,963.88,1
+53,Medium,2,0,0,Bowls,303.0,0
+19,High,4,0,0,Spoons,506.19,0
+32,Low,2,2,1,Bowls,415.6,0
+51,Medium,5,5,0,Spoons,892.91,1
+53,Low,4,1,1,Bowls,486.85,1
+23,Low,4,9,0,Trays,854.44,1
+56,High,2,0,1,Plates,271.63,0
+59,Medium,2,0,1,Trays,390.08,0
+29,High,1,4,1,Spoons,501.11,0
+20,Medium,5,3,1,Spoons,841.56,1
+35,Low,1,0,0,Trays,190.35,0
+57,Low,4,3,0,Plates,560.89,0
+38,Low,2,2,0,Plates,282.85,0
+32,Low,4,1,0,Combo Pack,519.3,0
+50,Low,4,8,0,Bowls,890.1,1
+52,Low,3,0,1,Combo Pack,465.03,0
+43,Medium,3,6,1,Plates,743.39,1
+25,Medium,4,3,1,Trays,661.37,1
+53,Medium,2,4,1,Bowls,455.51,0
+47,Medium,4,9,1,Trays,901.96,1
+40,Low,3,4,1,Combo Pack,612.71,0
+59,Low,2,0,1,Spoons,334.85,0
+31,Medium,4,5,0,Trays,769.59,1
+31,Medium,5,8,0,Combo Pack,948.27,1
+19,Low,5,1,1,Combo Pack,682.53,1
+54,High,4,6,1,Combo Pack,821.3,1
+22,Medium,2,5,1,Spoons,496.47,1
+55,Medium,4,4,0,Spoons,660.78,0
+58,Low,4,3,1,Spoons,684.42,1
+31,Medium,3,3,0,Bowls,538.27,0
+56,Medium,5,5,0,Spoons,929.46,1
+42,Medium,3,3,0,Spoons,575.06,0
+37,Medium,3,4,0,Spoons,575.67,0
+19,High,4,5,0,Trays,749.49,1
+56,Medium,3,4,0,Spoons,603.17,0
+23,Low,5,6,0,Bowls,863.58,1
+34,Medium,3,8,0,Combo Pack,754.37,0
+42,Medium,5,9,1,Trays,1085.07,1
+45,Medium,3,6,1,Plates,742.26,1
+19,Low,5,6,0,Spoons,930.19,1
+52,Low,3,3,0,Combo Pack,625.77,0
+54,High,3,0,1,Combo Pack,372.91,0
+22,Medium,2,7,1,Trays,733.71,1
+18,High,5,3,0,Plates,704.95,0
+57,Medium,5,0,1,Bowls,549.37,1
+29,Medium,5,4,1,Combo Pack,712.0,1
+53,Medium,1,7,0,Combo Pack,527.71,0
+40,High,3,3,0,Combo Pack,524.81,0
+48,Medium,5,7,0,Combo Pack,976.3,1
+28,Medium,1,7,1,Trays,562.19,1
+27,Low,2,2,0,Plates,340.35,0
+20,Medium,5,8,0,Combo Pack,980.36,1
+31,Medium,5,2,0,Bowls,681.43,0
+33,Low,1,0,1,Bowls,111.2,0
+27,Low,3,1,1,Spoons,400.95,0
+46,Low,2,5,1,Combo Pack,511.46,1
+27,Low,5,9,1,Combo Pack,1121.68,1
+29,Low,3,1,0,Combo Pack,459.57,0
+47,Medium,2,5,1,Combo Pack,583.11,1
+58,High,4,0,1,Combo Pack,425.07,1
+18,Medium,4,0,0,Bowls,559.71,0
+22,Low,2,4,1,Plates,565.06,0
+37,Low,1,9,1,Plates,550.08,1
+25,Medium,2,8,1,Spoons,664.73,1
+29,Low,2,7,0,Bowls,674.79,0
+18,High,1,2,1,Combo Pack,332.22,0
+37,Medium,1,2,1,Plates,266.08,0
+45,Medium,3,0,0,Trays,384.73,0
+54,Low,3,2,0,Trays,470.13,0
+54,Medium,1,0,0,Trays,205.52,0
+29,Low,4,7,1,Combo Pack,909.86,1
+54,High,4,0,1,Combo Pack,461.45,1
+45,Medium,2,4,0,Spoons,550.04,0
+32,Low,5,8,0,Spoons,960.92,1
+23,Low,2,6,0,Spoons,557.62,0
+37,Low,2,3,1,Trays,490.93,0
+31,Medium,5,8,0,Combo Pack,1046.1,1
+19,Low,1,8,1,Trays,642.57,1
+26,Medium,4,1,1,Spoons,484.21,1
+54,Low,2,9,1,Combo Pack,726.7,1
+37,Medium,5,9,0,Bowls,1091.15,1
+43,High,3,5,0,Plates,652.08,0
+46,Medium,2,3,0,Plates,396.32,0
+18,Medium,4,7,0,Spoons,872.92,1
+52,Low,1,6,0,Trays,464.26,0
+23,Low,2,6,1,Bowls,689.73,1
+54,Medium,2,9,0,Combo Pack,827.24,0
+22,Low,5,8,0,Trays,1030.2,1
+50,Medium,3,4,0,Spoons,668.05,0
+31,Low,3,5,0,Trays,653.24,0
+29,Low,1,0,1,Spoons,238.27,0
+59,Low,4,5,0,Plates,823.89,1
+37,High,1,1,0,Plates,262.27,0
+41,Low,2,5,1,Trays,537.24,1
+51,Medium,2,8,0,Bowls,614.77,0
+42,Low,3,7,0,Combo Pack,745.84,0
+46,Medium,4,8,0,Spoons,941.17,1
+56,Low,5,9,0,Combo Pack,1097.28,1
+48,High,4,7,0,Plates,875.22,1
+40,High,2,2,0,Bowls,372.94,0
+55,Low,5,7,1,Bowls,851.16,1
+37,High,4,5,0,Combo Pack,725.24,1
+40,High,4,5,1,Plates,734.78,1
+33,High,5,5,1,Combo Pack,834.35,1
+59,High,2,2,1,Trays,430.93,0
+25,Low,4,9,0,Bowls,1049.28,1
+38,Medium,5,0,0,Bowls,606.18,0
+18,Low,2,3,1,Trays,439.16,0
+25,Low,5,9,1,Plates,1037.04,1
+46,High,5,5,1,Bowls,856.22,1
+49,Low,4,9,0,Spoons,908.59,1
+55,Medium,2,1,1,Spoons,356.01,0
+22,High,4,6,0,Plates,822.54,1
+39,High,1,6,0,Trays,510.48,0
+51,High,1,3,0,Combo Pack,372.88,0
+18,Low,2,3,0,Plates,471.69,0
+43,Low,5,0,0,Combo Pack,511.41,0
+27,Medium,4,1,1,Plates,581.84,1
+47,Low,4,8,1,Spoons,866.45,1
+35,Low,2,9,1,Trays,695.21,1
+34,Low,2,7,0,Spoons,594.78,0
+43,Medium,1,7,1,Trays,571.68,1
+25,Medium,3,8,0,Combo Pack,788.87,0
+57,Low,2,6,0,Plates,515.9,0
+29,Medium,3,8,0,Bowls,823.9,0
+44,Low,2,9,0,Bowls,678.02,0
+25,Low,5,1,0,Trays,656.99,0
+42,Medium,5,5,0,Trays,861.92,1
+21,Medium,1,2,1,Spoons,344.28,0
+50,Medium,1,5,1,Bowls,539.08,1
+18,Low,3,2,0,Spoons,431.77,0
+36,High,2,7,1,Combo Pack,647.38,1
+48,Medium,4,3,1,Bowls,636.18,1
+33,Medium,1,9,1,Combo Pack,671.69,1
+31,Medium,4,5,1,Plates,760.78,1
+22,High,4,8,0,Spoons,882.37,1
+58,Medium,2,1,1,Trays,327.95,0
+43,Medium,3,1,1,Bowls,394.18,0
+45,High,2,6,1,Spoons,649.39,1
+19,Medium,1,1,1,Trays,272.96,0
+23,Medium,4,1,1,Plates,595.89,1
+26,Medium,2,3,1,Bowls,434.48,0
+50,Low,2,8,0,Combo Pack,667.16,0
+58,Low,2,7,0,Plates,596.08,0
+42,Medium,1,1,0,Trays,267.95,0
+30,High,3,7,0,Bowls,698.01,0
+26,High,2,3,0,Bowls,542.43,0
+30,Low,1,1,1,Plates,184.62,0
+48,Medium,4,9,1,Bowls,963.68,1
+58,Low,5,6,1,Trays,978.34,1
+28,High,1,5,1,Plates,479.95,1
+21,High,5,9,1,Combo Pack,1058.78,1
+51,Medium,2,4,1,Plates,451.58,0
+55,High,2,0,1,Plates,230.91,0
+21,Medium,1,1,1,Combo Pack,288.5,0
+55,Medium,5,7,0,Trays,1025.31,1
+36,Low,2,0,0,Spoons,278.06,0
+23,Medium,4,2,0,Spoons,543.05,0
+51,Medium,3,1,1,Combo Pack,327.09,0
+35,Medium,3,4,1,Trays,550.96,0
+30,Low,2,3,0,Bowls,444.32,0
+58,High,5,6,0,Combo Pack,979.96,1
+40,Low,2,4,1,Spoons,533.66,0
+36,Medium,5,7,1,Trays,965.25,1
+28,Medium,4,3,0,Plates,629.99,0
+18,Medium,5,5,1,Trays,820.84,1
+41,Medium,2,3,1,Trays,520.28,0
+24,Low,4,1,1,Spoons,560.04,1
+42,Low,1,0,0,Spoons,94.87,0
+38,Medium,3,0,0,Bowls,366.32,0
+32,Medium,2,7,0,Bowls,607.09,0
+18,Low,2,3,0,Combo Pack,422.69,0
+29,Medium,2,4,1,Plates,528.15,0
+24,Medium,4,7,0,Bowls,844.63,1
+32,Medium,1,6,1,Spoons,496.16,1
+38,High,5,7,0,Trays,1015.67,1
+36,Low,1,7,1,Combo Pack,515.18,1
+46,Low,4,5,0,Bowls,843.21,1
+42,Medium,2,9,1,Trays,716.43,1
+50,Medium,3,1,1,Trays,454.46,0
+49,Medium,2,5,1,Bowls,535.94,1
+52,High,5,0,0,Plates,606.17,0
+55,High,3,0,0,Plates,422.23,0
+43,High,2,2,1,Combo Pack,421.69,0
+28,Medium,3,2,0,Plates,462.34,0
+52,Medium,1,4,0,Combo Pack,343.85,0
+25,Medium,4,0,0,Spoons,625.16,0
+31,Low,2,9,1,Bowls,725.8,1
+27,Medium,5,5,1,Trays,884.96,1
+19,Low,1,6,0,Combo Pack,419.62,0
+26,High,2,9,0,Plates,736.02,0
+20,Medium,1,2,0,Combo Pack,293.64,0
+38,Medium,5,3,1,Combo Pack,773.64,1
+43,Low,2,9,0,Plates,613.88,0
+25,Low,5,9,0,Plates,1058.31,1
+19,Low,3,9,1,Bowls,792.51,1
+23,Medium,5,9,1,Trays,1066.22,1
+45,Low,3,9,1,Bowls,798.18,1
+46,Medium,2,2,1,Bowls,357.23,0
+43,High,3,0,0,Plates,386.32,0
+42,High,2,7,1,Plates,597.38,1
+29,Medium,2,9,0,Trays,726.22,0
+22,Low,4,9,1,Combo Pack,890.33,1
+51,High,2,1,0,Bowls,258.34,0
+54,High,3,0,1,Trays,450.9,0
+32,Low,4,7,1,Bowls,785.2,1
+53,Medium,4,6,0,Combo Pack,791.07,1
+32,Low,2,6,1,Bowls,637.64,1
+40,High,5,3,0,Spoons,719.25,0
+23,High,5,8,0,Trays,958.74,1
+38,Low,4,5,0,Plates,761.31,1
+40,High,2,1,0,Bowls,405.9,0
+33,Medium,5,0,0,Trays,541.53,0
+32,High,2,0,1,Trays,292.49,0
+42,Medium,2,8,0,Bowls,613.38,0
+53,High,4,3,0,Plates,630.34,0
+28,Low,4,4,0,Plates,701.71,0
+32,Low,1,2,1,Bowls,257.27,0
+21,Low,5,3,1,Trays,727.15,1
+38,High,5,7,1,Plates,879.59,1
+30,High,5,3,1,Bowls,753.85,1
+39,High,3,8,1,Bowls,852.78,1
+36,High,2,8,1,Bowls,645.14,1
+51,Low,4,5,1,Trays,718.87,1
+31,Low,5,1,0,Plates,675.13,0
+21,Low,1,9,1,Trays,710.6,1
+44,Low,5,6,1,Spoons,825.34,1
+46,Low,2,8,1,Plates,691.56,1
+45,Medium,2,5,1,Trays,564.16,1
+52,Low,4,2,1,Plates,594.9,1
+25,Low,3,6,1,Spoons,576.16,1
+33,Low,4,4,0,Combo Pack,725.05,0
+59,Low,5,0,0,Bowls,675.97,0
+53,High,1,2,0,Trays,305.83,0
+47,Medium,4,4,1,Spoons,648.44,1
+35,High,3,6,1,Spoons,674.34,1
+19,Medium,4,2,1,Plates,688.5,1
+30,Low,2,5,1,Plates,595.5,1
+21,Medium,5,4,1,Bowls,832.0,1
+43,Low,5,0,1,Plates,617.82,1
+42,Low,5,9,1,Trays,1016.94,1
+47,Low,5,5,1,Trays,839.97,1
+28,Low,5,7,1,Trays,946.1,1
+24,Low,5,0,0,Combo Pack,627.48,0
